@@ -1,0 +1,660 @@
+{
+  "name": "1",
+  "summary": "Merge 1.94",
+  "children": [
+    {
+      "name": "1",
+      "summary": "Mobilisation active de l'Association des archivistes français pour défendre l'accès aux archives, notamment classées secret-défense, face aux modifications législatives restrictives et aux enjeux de déclassification et de transparence.",
+      "children": [
+        {
+          "name": "1",
+          "summary": "Mobilisation de l'Association des archivistes français pour défendre un accès transparent et équitable aux archives, notamment celles classées secret-défense, face aux réformes législatives et procédures administratives restrictives.",
+          "children": [
+            {
+              "name": "1",
+              "summary": "Les échanges portent principalement sur les enjeux, difficultés et évolutions législatives concernant l'accès aux archives classées secret-défense, la procédure de déclassification, et la mobilisation des archivistes et historiens pour défendre le droit d'accès aux archives publiques.",
+              "children": [
+                {
+                  "name": "1",
+                  "summary": "Le sujet principal porte sur la mobilisation de l'Association des archivistes français pour défendre l'accès aux archives, notamment celles classées secret défense, face aux modifications législatives et aux procédures administratives restrictives qui menacent la transparence et la communication des documents historiques.",
+                  "children": [
+                    {
+                      "name": "1",
+                      "summary": "Mobilisation de l'Association des archivistes français pour défendre l'accès libre et démocratique aux archives, en particulier contre les restrictions liées aux archives classées secret-défense et les modifications législatives menaçant ce droit.",
+                      "children": [
+                        {
+                          "name": "1",
+                          "summary": "Mobilisation de l'Association des archivistes français pour défendre l'accès aux archives classées secret-défense, en particulier face aux modifications législatives et aux procédures de déclassification qui risquent de restreindre ce droit.",
+                          "children": [
+                            {
+                              "name": "1",
+                              "summary": "Organisation et coordination des réunions, échanges et partenariats au sein de l'Association des archivistes français pour défendre les intérêts des archivistes et préparer des actions communes.",
+                              "children": [
+                                {
+                                  "name": "1",
+                                  "summary": "Organisation et coordination des rendez-vous et partenariats liés à la défense du droit d'accès aux archives, incluant la préparation de messages aux adhérents et la gestion des contacts avec les interlocuteurs institutionnels.",
+                                  "children": [
+                                    {
+                                      "name": "1",
+                                      "summary": "Organisation et coordination des réunions, échanges et partenariats au sein de l’Association des archivistes français pour défendre les intérêts des adhérents.",
+                                      "children": []
+                                    }
+                                  ]
+                                },
+                                {
+                                  "name": "2",
+                                  "summary": "Gestion des activités associatives, communication interne et externe, et organisation d'événements liés à la promotion et au soutien des archivistes français.",
+                                  "children": [
+                                    {
+                                      "name": "2",
+                                      "summary": "Gestion des activités associatives, communication interne et organisation d’événements et formations pour les membres de l’AAF.",
+                                      "children": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "name": "2",
+                              "summary": "Mobilisation et actions juridiques autour de l'accès aux archives classées secret-défense, avec un focus sur les enjeux législatifs, les procédures de déclassification et la défense des droits d'accès.",
+                              "children": [
+                                {
+                                  "name": "3",
+                                  "summary": "Mobilisation et actions autour de l'accès aux archives classées secret défense, avec un focus sur les enjeux juridiques, les procédures de déclassification et les difficultés pratiques rencontrées par les archivistes.",
+                                  "children": [
+                                    {
+                                      "name": "3",
+                                      "summary": "Mobilisation et actions autour de l’accès aux archives classées secret-défense, incluant la contestation des procédures de déclassification et la défense du droit d’accès aux archives publiques.",
+                                      "children": []
+                                    },
+                                    {
+                                      "name": "4",
+                                      "summary": "Préparation et coordination des publications, communications et plaidoyers de l’AAF, ainsi que la gestion des ressources humaines et des postes à pourvoir.",
+                                      "children": []
+                                    }
+                                  ]
+                                },
+                                {
+                                  "name": "4",
+                                  "summary": "Rédaction, relecture et diffusion du rapport moral de l'Association des archivistes français, incluant la coordination avec les administrateurs et la mise en forme des documents associés.",
+                                  "children": [
+                                    {
+                                      "name": "5",
+                                      "summary": "Rédaction, relecture et diffusion du rapport moral de l’AAF, intégrant les bilans d’activités, analyses financières et propositions pour le mandat en cours.",
+                                      "children": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "name": "3",
+                              "summary": "Gestion éditoriale et communication de l'Association des archivistes français, incluant la préparation de publications, d'éditoriaux et la coordination des activités associatives.",
+                              "children": [
+                                {
+                                  "name": "5",
+                                  "summary": "Communication et plaidoyer autour de l'accès aux archives, incluant la rédaction de communiqués de presse, l'organisation de webinaires et la gestion des relations avec les médias et les adhérents.",
+                                  "children": [
+                                    {
+                                      "name": "6",
+                                      "summary": "Suivi des modifications législatives et normatives relatives au code du patrimoine, aux archives et aux prestations d’archivage, avec échanges entre membres et partenaires institutionnels.",
+                                      "children": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "name": "4",
+                              "summary": "Démarches administratives et demandes de rendez-vous auprès du ministère de la Culture pour discuter des problématiques liées aux archives et à leur accès.",
+                              "children": [
+                                {
+                                  "name": "6",
+                                  "summary": "Organisation et suivi des rendez-vous avec le ministère de la Culture, préparation et envoi de courriers officiels, et gestion des relations institutionnelles concernant les archives.",
+                                  "children": [
+                                    {
+                                      "name": "7",
+                                      "summary": "Demande, organisation et préparation de rendez-vous avec le ministère de la Culture et autres instances pour discuter des enjeux liés aux archives et à leur accès.",
+                                      "children": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "2",
+                          "summary": "Suivi et analyse des projets de modification de l'article L213-2 du Code du patrimoine, avec un focus sur les implications pour l'accès aux archives et la concertation entre acteurs concernés.",
+                          "children": [
+                            {
+                              "name": "5",
+                              "summary": "Suivi et participation aux travaux de modification du Code du patrimoine, notamment concernant les articles relatifs aux archives et leurs conditions d'accès.",
+                              "children": [
+                                {
+                                  "name": "7",
+                                  "summary": "Suivi et participation aux travaux législatifs et réglementaires sur la modification du Code du patrimoine, notamment concernant l'article L213-2 relatif aux archives classées secret défense.",
+                                  "children": [
+                                    {
+                                      "name": "8",
+                                      "summary": "Travail collaboratif sur les projets de modification du code du patrimoine, préparation d’amendements, et coordination avec les parlementaires et acteurs institutionnels.",
+                                      "children": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "2",
+              "summary": "Les discussions se concentrent sur la réforme législative liée à la loi SILT, les risques de cavaliers législatifs, la mobilisation auprès des parlementaires, et les stratégies pour protéger les dispositions relatives aux archives dans le cadre du projet de loi sur la sécurité intérieure et la lutte contre le terrorisme.",
+              "children": [
+                {
+                  "name": "2",
+                  "summary": "Ce thème traite de la gestion interne de l'Association des archivistes français, avec un focus sur l'organisation des réunions, la gestion des comptes, la coordination des actions associatives et la préparation des événements et publications.",
+                  "children": [
+                    {
+                      "name": "2",
+                      "summary": "Organisation interne et coordination de l'Association des archivistes français autour des réunions, enquêtes publiques, formations, et gestion des ressources humaines et administratives.",
+                      "children": [
+                        {
+                          "name": "3",
+                          "summary": "Organisation et coordination d'événements, formations et actions collectives autour des enjeux liés à l'archivage électronique, à la défense du droit d'accès aux archives et à la mobilisation associative.",
+                          "children": [
+                            {
+                              "name": "6",
+                              "summary": "Organisation interne et gestion des instances de l'Association des archivistes français, incluant la préparation des conseils d'administration, des bureaux et la gestion des ressources humaines.",
+                              "children": [
+                                {
+                                  "name": "8",
+                                  "summary": "Préparation et suivi des réunions avec la Direction générale des patrimoines et de l'architecture (DGPAT) concernant la suppression du bureau des missions des Archives de France et autres sujets institutionnels.",
+                                  "children": [
+                                    {
+                                      "name": "9",
+                                      "summary": "Suivi des départs et nominations au sein des directions patrimoniales, gestion des relations avec le DGPAT, et organisation des échanges avec les services d’archives.",
+                                      "children": []
+                                    }
+                                  ]
+                                },
+                                {
+                                  "name": "9",
+                                  "summary": "Coordination des activités associatives, gestion des réunions, webinaires, formations, et échanges avec les membres et partenaires de l'Association des archivistes français.",
+                                  "children": [
+                                    {
+                                      "name": "10",
+                                      "summary": "Organisation et participation aux réunions, colloques, assemblées générales et webinaires, ainsi que la gestion des relations avec les adhérents et partenaires.",
+                                      "children": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "name": "7",
+                              "summary": "Plaidoyer et lobbying auprès des parlementaires pour influencer les débats législatifs sur l'accès aux archives, avec un focus sur la coordination des actions et la communication politique.",
+                              "children": [
+                                {
+                                  "name": "10",
+                                  "summary": "Mobilisation et actions juridiques autour de l'accès aux archives, notamment la préparation de recours, la rédaction d'argumentaires, et la communication avec les parlementaires et institutions.",
+                                  "children": [
+                                    {
+                                      "name": "11",
+                                      "summary": "Mobilisation auprès des parlementaires et préparation des actions de plaidoyer pour défendre le droit d’accès aux archives et s’opposer aux restrictions législatives.",
+                                      "children": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "name": "8",
+                              "summary": "Actions de sensibilisation, formation et échanges autour des archives, incluant la mobilisation sur des sujets spécifiques comme le droit à l'image, l'archivage électronique et les archives LGBTQI.",
+                              "children": [
+                                {
+                                  "name": "11",
+                                  "summary": "Engagement et participation aux débats sur les archives militantes, notamment autour des archives LGBTQI, incluant l'organisation de journées d'étude et la coordination avec les porteurs de projets.",
+                                  "children": [
+                                    {
+                                      "name": "12",
+                                      "summary": "Actions juridiques et communication autour des recours contre les restrictions d’accès aux archives classées secret-défense, avec échanges entre archivistes, historiens et juristes.",
+                                      "children": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "4",
+                          "summary": "Participation active de l'AAF à l'enquête publique sur la révision de la norme NF Z40-350 concernant les prestations de tiers archivage sur supports physiques, avec organisation de relectures collectives et mobilisation des membres.",
+                          "children": [
+                            {
+                              "name": "9",
+                              "summary": "Participation à l'enquête publique et mobilisation collective pour commenter et influencer la norme NF Z40-350 sur les prestations de tiers archivage sur supports physiques.",
+                              "children": [
+                                {
+                                  "name": "12",
+                                  "summary": "Participation à l'enquête publique sur la norme NF Z40-350 relative aux prestations de tiers archivage sur supports physiques, incluant l'organisation de réunions de relecture collective et la mobilisation des experts.",
+                                  "children": [
+                                    {
+                                      "name": "13",
+                                      "summary": "Organisation de la participation de l’AAF à l’enquête publique sur la norme NF Z40-350 concernant les prestations de tiers archivage sur supports physiques.",
+                                      "children": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "3",
+                      "summary": "Initiatives et échanges autour des archives LGBTQI, incluant la formation, la valorisation des archives alternatives et la collaboration entre associations archivistiques.",
+                      "children": [
+                        {
+                          "name": "5",
+                          "summary": "Préparation d'une journée d'études et d'un numéro de la Gazette des archives sur le thème de l'engagement des archivistes, historiens et citoyens dans la valorisation et la défense des archives.",
+                          "children": [
+                            {
+                              "name": "10",
+                              "summary": "Engagement de l'Association des archivistes français dans les questions liées aux archives LGBTQI, avec organisation de réunions, formations et journées d'étude sur ce thème.",
+                              "children": [
+                                {
+                                  "name": "13",
+                                  "summary": "Organisation et suivi des actions liées aux archives LGBTQI, incluant la participation à des réunions, la coordination avec les porteurs de projets et la préparation de journées d'étude.",
+                                  "children": [
+                                    {
+                                      "name": "14",
+                                      "summary": "Échanges et coordination autour des archives LGBTQI, incluant la formation, la valorisation et la participation à des groupes de travail spécifiques.",
+                                      "children": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "4",
+                      "summary": "Gestion financière et administrative de l'Association des archivistes français, incluant les bilans, subventions, relations avec les prestataires et réflexions sur la pérennité économique.",
+                      "children": [
+                        {
+                          "name": "6",
+                          "summary": "Gestion administrative et financière de l'AAF, incluant la demande de subventions, le suivi des bilans, la coordination avec les prestataires et la réflexion sur la diversification des ressources.",
+                          "children": [
+                            {
+                              "name": "11",
+                              "summary": "Suivi financier et budgétaire de l'Association des archivistes français, incluant la gestion des subventions, la préparation des bilans et la réflexion sur les modèles économiques.",
+                              "children": [
+                                {
+                                  "name": "14",
+                                  "summary": "Gestion financière de l'Association des archivistes français et de sa filiale, incluant la préparation des bilans, la coordination avec le cabinet comptable, et la réflexion sur la politique tarifaire.",
+                                  "children": [
+                                    {
+                                      "name": "15",
+                                      "summary": "Gestion financière de l’AAF, préparation des bilans, subventions, et organisation des ressources humaines et matérielles de l’association.",
+                                      "children": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "3",
+                  "summary": "Les échanges concernent la coordination et la communication entre membres de l'AAF, la gestion des relations avec les partenaires, la préparation d'événements et la diffusion d'informations liées aux archives et à leur accès, ainsi que le suivi des dossiers législatifs.",
+                  "children": [
+                    {
+                      "name": "5",
+                      "summary": "Activités de plaidoyer et de communication de l'AAF concernant l'accès aux archives classées secret-défense, la révision législative, et la mobilisation auprès des parlementaires et médias.",
+                      "children": [
+                        {
+                          "name": "7",
+                          "summary": "Communication, plaidoyer et mobilisation autour de la réforme du droit d'accès aux archives, avec un focus sur les relations avec les parlementaires, les médias et les partenaires institutionnels.",
+                          "children": [
+                            {
+                              "name": "12",
+                              "summary": "Coordination de projets et échanges autour de la communication, des podcasts et des actions de plaidoyer liées à l'accès aux archives et à la réforme législative en cours.",
+                              "children": [
+                                {
+                                  "name": "15",
+                                  "summary": "Suivi des débats législatifs relatifs à la loi SILT, notamment sur les amendements concernant les archives, et coordination des actions de plaidoyer auprès des parlementaires.",
+                                  "children": [
+                                    {
+                                      "name": "16",
+                                      "summary": "Suivi des projets et partenariats liés à la gestion des archives, notamment les questions de coordination, de communication et de gestion des comptes associés.",
+                                      "children": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "3",
+              "summary": "La thématique centrale est la mobilisation autour de l'accès aux archives de la guerre d'Algérie, les débats sur la déclassification des documents, les enjeux mémoriels et politiques, ainsi que la coordination entre historiens, archivistes et associations pour défendre la transparence et la vérité historique.",
+              "children": [
+                {
+                  "name": "4",
+                  "summary": "Ce sujet est centré sur la révision législative de l'article L213-2 du Code du patrimoine dans le cadre du projet de loi SILT, avec une attention particulière portée aux implications pour l'accès aux archives classées secret défense et la défense des droits des archivistes et des citoyens.",
+                  "children": [
+                    {
+                      "name": "6",
+                      "summary": "Suivi des amendements et modifications législatives concernant l'article L213-2 du Code du patrimoine, avec un focus sur les implications pour la communicabilité des archives et la défense des droits des archivistes.",
+                      "children": [
+                        {
+                          "name": "8",
+                          "summary": "Suivi des débats législatifs et des amendements relatifs à la modification de l'article L213-2 du Code du patrimoine, avec une attention particulière portée aux enjeux de transparence, de déclassification et de protection des archives.",
+                          "children": [
+                            {
+                              "name": "13",
+                              "summary": "Mobilisation et communication sur les enjeux liés à la réforme du droit des archives, notamment concernant l'accès aux archives classées secret-défense et les archives de la guerre d'Algérie.",
+                              "children": [
+                                {
+                                  "name": "16",
+                                  "summary": "Mobilisation et plaidoyer contre la réforme du droit d'accès aux archives dans le cadre du projet de loi SILT, incluant la rédaction de courriers, la participation à des réunions et la coordination avec les historiens et juristes.",
+                                  "children": [
+                                    {
+                                      "name": "17",
+                                      "summary": "Suivi des évolutions législatives et réglementaires concernant la déclassification des archives, la protection du secret défense et les modalités d’accès aux documents.",
+                                      "children": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "name": "14",
+                              "summary": "Rédaction, dépôt et suivi des amendements parlementaires relatifs à la modification du Code du patrimoine et aux conditions d'accès aux archives classées.",
+                              "children": [
+                                {
+                                  "name": "17",
+                                  "summary": "Analyse, suivi et propositions d'amendements sur la modification de l'article L213-2 du Code du patrimoine, avec un accent sur la transparence et la protection des droits d'accès aux archives.",
+                                  "children": [
+                                    {
+                                      "name": "18",
+                                      "summary": "Analyse, concertation et communication sur les modifications du code du patrimoine relatives à l’accès aux archives, avec un focus sur les enjeux juridiques et pratiques.",
+                                      "children": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "5",
+                  "summary": "Le thème principal est la défense du droit d'accès aux archives relatives à la Guerre d'Algérie et aux archives classées secret défense, avec une mobilisation pour contester les restrictions et promouvoir la transparence historique et démocratique.",
+                  "children": [
+                    {
+                      "name": "7",
+                      "summary": "Enjeux liés aux archives de la guerre d'Algérie, incluant la mobilisation des historiens et archivistes, la déclassification des documents, et les débats autour de la mémoire franco-algérienne.",
+                      "children": [
+                        {
+                          "name": "9",
+                          "summary": "Engagement dans le débat public et médiatique sur la mémoire franco-algérienne, notamment sur l'accès aux archives de la guerre d'Algérie, en lien avec les historiens, journalistes et acteurs associatifs.",
+                          "children": [
+                            {
+                              "name": "15",
+                              "summary": "Actions de plaidoyer et de sensibilisation auprès des institutions et acteurs politiques sur la dégradation des conditions d'accès aux archives, notamment celles relatives à la guerre d'Algérie.",
+                              "children": [
+                                {
+                                  "name": "18",
+                                  "summary": "Communication et mobilisation autour des enjeux liés aux archives de la guerre d'Algérie et des archives nucléaires, incluant la gestion des relations avec les médias et la préparation d'articles et tribunes.",
+                                  "children": [
+                                    {
+                                      "name": "19",
+                                      "summary": "Préparation d’un numéro de la Gazette des archives sur le thème de l’engagement, organisation d’une journée d’études et mobilisation pour la défense du droit d’accès aux archives.",
+                                      "children": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "4",
+              "summary": "Les échanges concernent les conséquences de l'incendie du data center OVH sur le référentiel des producteurs d'archives ISAF/AAF, la coordination entre acteurs pour la gestion des notices et la communication aux adhérents sur la reprise normale des services.",
+              "children": [
+                {
+                  "name": "6",
+                  "summary": "Ce sujet aborde les conséquences de l'incendie du data center OVH sur le référentiel des producteurs d'archives géré conjointement par le SIAF et l'AAF, ainsi que la communication aux adhérents sur cette situation.",
+                  "children": [
+                    {
+                      "name": "8",
+                      "summary": "Conséquences de l'incendie du data center OVH sur les référentiels des producteurs d'archives et coordination entre le SIAF et l'AAF pour la gestion de cette crise.",
+                      "children": [
+                        {
+                          "name": "10",
+                          "summary": "Gestion de la crise liée à l'incendie du data center OVH impactant le référentiel des producteurs ISAF/AAF, avec coordination des communications et suivi des conséquences pour les archivistes.",
+                          "children": [
+                            {
+                              "name": "16",
+                              "summary": "Gestion de la crise liée à l'incendie du data center OVH impactant le référentiel des producteurs ISAF/AAF et coordination des communications associées.",
+                              "children": [
+                                {
+                                  "name": "19",
+                                  "summary": "Suivi des conséquences de l'incendie OVH sur les référentiels des producteurs d'archives, coordination avec les partenaires et communication auprès des adhérents.",
+                                  "children": [
+                                    {
+                                      "name": "20",
+                                      "summary": "Gestion des incidents techniques affectant les bases de données d’archives, suivi des référentiels et coordination avec les partenaires techniques et institutionnels.",
+                                      "children": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "2",
+      "summary": "Inquiétudes et actions coordonnées des archivistes et historiens concernant la réforme du Code du patrimoine qui modifie les délais et conditions d'accès aux archives, avec un focus sur les impacts sécuritaires, législatifs et pratiques archivistiques.",
+      "children": [
+        {
+          "name": "2",
+          "summary": "Préoccupation collective autour de la réforme du Code du patrimoine qui modifie les conditions d'accès aux archives, avec un focus sur la déclassification, les délais de communicabilité et la nécessité d'un dialogue entre archivistes, historiens et pouvoirs publics.",
+          "children": [
+            {
+              "name": "5",
+              "summary": "Les messages traitent de la révision du Code du patrimoine dans le cadre du projet de loi SILT, avec un focus sur les modifications de l'article L213-2, les implications pour la communicabilité des archives, les débats parlementaires, les amendements proposés, et la mobilisation des archivistes pour préserver les droits d'accès aux archives publiques.",
+              "children": [
+                {
+                  "name": "7",
+                  "summary": "Le thème central est la mobilisation de l'AAF et de ses partenaires pour influencer la révision de la loi sur les archives dans le cadre du projet de loi SILT, en insistant sur la défense du droit d'accès aux archives publiques et la vigilance face aux restrictions potentielles.",
+                  "children": [
+                    {
+                      "name": "9",
+                      "summary": "Débats et actions autour de la réforme du droit d'accès aux archives, la procédure de déclassification, les enjeux sécuritaires, et la mobilisation des associations et parlementaires pour préserver les libertés publiques.",
+                      "children": [
+                        {
+                          "name": "11",
+                          "summary": "Actions juridiques et plaidoyer pour la défense du droit d'accès aux archives classées secret-défense, incluant la rédaction d'amendements, la préparation de recours et la mobilisation auprès des institutions.",
+                          "children": [
+                            {
+                              "name": "17",
+                              "summary": "Stratégies de communication et mobilisation politique autour de l'accès aux archives classées secret-défense, avec préparation de messages et interventions auprès des autorités.",
+                              "children": [
+                                {
+                                  "name": "20",
+                                  "summary": "Coordination des actions de l'AAF pour le développement des publications numériques, la mobilisation sur le droit d'accès aux archives, et l'organisation d'événements et de formations.",
+                                  "children": [
+                                    {
+                                      "name": "21",
+                                      "summary": "Communication et mobilisation auprès des autorités et parlementaires pour défendre le droit d’accès aux archives face aux projets de révision législative restrictifs.",
+                                      "children": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "12",
+                          "summary": "Mobilisation collective et concertation avec les autorités pour influencer la révision législative du Code du patrimoine concernant l'accès aux archives classées secret-défense, en insistant sur la transparence et la protection des libertés publiques.",
+                          "children": [
+                            {
+                              "name": "18",
+                              "summary": "Analyse et échanges approfondis sur la classification, la déclassification et les effets des nouvelles règles sur la pratique archivistique et l'accès aux archives classées secret-défense.",
+                              "children": [
+                                {
+                                  "name": "21",
+                                  "summary": "Suivi des évolutions législatives sur l'accès aux archives classées secret défense, coordination des actions de plaidoyer, et préparation de communications et documents à destination des parlementaires.",
+                                  "children": [
+                                    {
+                                      "name": "22",
+                                      "summary": "Suivi des discussions et concertations sur les projets de loi modifiant l’article L213-2 du Code du patrimoine, avec préparation d’amendements et échanges avec les institutions.",
+                                      "children": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "6",
+              "summary": "Les échanges portent sur l'organisation d'événements et publications autour du thème de l'engagement des archivistes, historiens et citoyens, notamment la préparation d'une journée d'études et d'un numéro de la Gazette des archives sur l'acte d'archiver comme acte engagé.",
+              "children": [
+                {
+                  "name": "8",
+                  "summary": "Ce sujet porte sur l'organisation d'événements et de publications autour de la thématique de l'engagement des archivistes, historiens et citoyens, ainsi que sur la mobilisation pour la défense du droit d'accès aux archives et la participation aux consultations normatives.",
+                  "children": [
+                    {
+                      "name": "10",
+                      "summary": "Organisation d'événements et publications de l'AAF sur le thème de l'engagement archivistique, ainsi que le développement des éditions numériques et retours d'expérience professionnels.",
+                      "children": [
+                        {
+                          "name": "13",
+                          "summary": "Organisation d'événements, publications et échanges autour de la thématique de l'engagement dans le métier d'archiviste, avec une volonté de valoriser les pratiques professionnelles et les prises de position.",
+                          "children": [
+                            {
+                              "name": "19",
+                              "summary": "Organisation d'événements et publications sur le thème de l'engagement des archivistes, avec préparation de journées d'étude, articles et tables rondes.",
+                              "children": [
+                                {
+                                  "name": "22",
+                                  "summary": "Organisation de la Gazette des archives et des journées d'étude sur le thème de l'engagement des archivistes, historiens et citoyens, incluant la coordination des contributions et des intervenants.",
+                                  "children": [
+                                    {
+                                      "name": "23",
+                                      "summary": "Organisation de séances de relecture collective pour répondre aux enquêtes publiques et coordination des contributions de l’AAF aux normes et publications.",
+                                      "children": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "3",
+          "summary": "Suivi critique et concerté des modifications législatives concernant l'article L213-2 du Code du patrimoine, visant à encadrer l'accès aux archives classées secret-défense, avec une vigilance sur les implications pour la pratique archivistique et les libertés publiques.",
+          "children": [
+            {
+              "name": "7",
+              "summary": "Les discussions portent sur le suivi du projet de loi modifiant l'article L213-2 du Code du patrimoine, les réunions de concertation avec les ministères, la rédaction des amendements, la communication auprès des parlementaires, et la mobilisation collective pour influencer positivement la réforme du droit d'accès aux archives.",
+              "children": [
+                {
+                  "name": "9",
+                  "summary": "Le thème principal est le suivi détaillé des modifications législatives concernant l'article L213-2 du Code du patrimoine, les discussions avec les autorités, la préparation des amendements et la mobilisation des parlementaires pour préserver l'accès aux archives.",
+                  "children": [
+                    {
+                      "name": "11",
+                      "summary": "Suivi parlementaire et juridique du projet de loi SILT modifiant l'article L213-2 du Code du patrimoine, avec une attention particulière portée aux amendements, débats en commission, et mobilisation des associations d'archivistes et historiens.",
+                      "children": [
+                        {
+                          "name": "14",
+                          "summary": "Suivi des évolutions législatives et des discussions parlementaires sur la modification de l'article L213-2 du Code du patrimoine, avec une attention portée aux impacts sur la pratique archivistique et les droits d'accès.",
+                          "children": [
+                            {
+                              "name": "20",
+                              "summary": "Suivi législatif et stratégique des amendements sur la modification de l'article L213-2 du Code du patrimoine, avec mobilisation des parlementaires et préparation des réponses associatives.",
+                              "children": [
+                                {
+                                  "name": "23",
+                                  "summary": "Préparation et diffusion de documents d'information et d'argumentaires à destination des adhérents et parlementaires concernant la modification de l'article L213-2 du Code du patrimoine dans le cadre du projet de loi SILT.",
+                                  "children": [
+                                    {
+                                      "name": "24",
+                                      "summary": "Suivi des débats parlementaires sur le projet de loi SILT, analyse des amendements, communication avec les parlementaires et préparation des réponses de l’AAF.",
+                                      "children": []
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
