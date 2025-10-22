@@ -1,0 +1,2634 @@
+{
+  "name": "46",
+  "summary": "Merge 1.84",
+  "children": [
+    {
+      "name": "44",
+      "summary": "Merge 0.99",
+      "children": [
+        {
+          "name": "7_pad_20",
+          "summary": "padding for leaf 7, level 20",
+          "children": [
+            {
+              "name": "7_pad_19",
+              "summary": "padding for leaf 7, level 19",
+              "children": [
+                {
+                  "name": "7_pad_18",
+                  "summary": "padding for leaf 7, level 18",
+                  "children": [
+                    {
+                      "name": "7_pad_17",
+                      "summary": "padding for leaf 7, level 17",
+                      "children": [
+                        {
+                          "name": "7_pad_16",
+                          "summary": "padding for leaf 7, level 16",
+                          "children": [
+                            {
+                              "name": "7_pad_15",
+                              "summary": "padding for leaf 7, level 15",
+                              "children": [
+                                {
+                                  "name": "7_pad_14",
+                                  "summary": "padding for leaf 7, level 14",
+                                  "children": [
+                                    {
+                                      "name": "7_pad_13",
+                                      "summary": "padding for leaf 7, level 13",
+                                      "children": [
+                                        {
+                                          "name": "7_pad_12",
+                                          "summary": "padding for leaf 7, level 12",
+                                          "children": [
+                                            {
+                                              "name": "7_pad_11",
+                                              "summary": "padding for leaf 7, level 11",
+                                              "children": [
+                                                {
+                                                  "name": "7_pad_10",
+                                                  "summary": "padding for leaf 7, level 10",
+                                                  "children": [
+                                                    {
+                                                      "name": "7_pad_9",
+                                                      "summary": "padding for leaf 7, level 9",
+                                                      "children": [
+                                                        {
+                                                          "name": "7_pad_8",
+                                                          "summary": "padding for leaf 7, level 8",
+                                                          "children": [
+                                                            {
+                                                              "name": "7_pad_7",
+                                                              "summary": "padding for leaf 7, level 7",
+                                                              "children": [
+                                                                {
+                                                                  "name": "7_pad_6",
+                                                                  "summary": "padding for leaf 7, level 6",
+                                                                  "children": [
+                                                                    {
+                                                                      "name": "7_pad_5",
+                                                                      "summary": "padding for leaf 7, level 5",
+                                                                      "children": [
+                                                                        {
+                                                                          "name": "7_pad_4",
+                                                                          "summary": "padding for leaf 7, level 4",
+                                                                          "children": [
+                                                                            {
+                                                                              "name": "7_pad_3",
+                                                                              "summary": "padding for leaf 7, level 3",
+                                                                              "children": [
+                                                                                {
+                                                                                  "name": "7_pad_2",
+                                                                                  "summary": "padding for leaf 7, level 2",
+                                                                                  "children": [
+                                                                                    {
+                                                                                      "name": "7_pad_1",
+                                                                                      "summary": "padding for leaf 7, level 1",
+                                                                                      "children": [
+                                                                                        {
+                                                                                          "name": "7_pad_0",
+                                                                                          "summary": "padding for leaf 7, level 0",
+                                                                                          "children": [
+                                                                                            {
+                                                                                              "name": "7",
+                                                                                              "summary": "Suivi et gestion des conséquences de l'incendie du data center OVH sur les référentiels et bases de données archivistiques, avec une coordination entre AAF, SIAF et prestataires techniques pour assurer la continuité des services.",
+                                                                                              "children": []
+                                                                                            }
+                                                                                          ]
+                                                                                        }
+                                                                                      ]
+                                                                                    }
+                                                                                  ]
+                                                                                }
+                                                                              ]
+                                                                            }
+                                                                          ]
+                                                                        }
+                                                                      ]
+                                                                    }
+                                                                  ]
+                                                                }
+                                                              ]
+                                                            }
+                                                          ]
+                                                        }
+                                                      ]
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "43",
+          "summary": "Merge 0.97",
+          "children": [
+            {
+              "name": "34",
+              "summary": "Merge 0.65",
+              "children": [
+                {
+                  "name": "23_pad_18",
+                  "summary": "padding for leaf 23, level 18",
+                  "children": [
+                    {
+                      "name": "23_pad_17",
+                      "summary": "padding for leaf 23, level 17",
+                      "children": [
+                        {
+                          "name": "23_pad_16",
+                          "summary": "padding for leaf 23, level 16",
+                          "children": [
+                            {
+                              "name": "23_pad_15",
+                              "summary": "padding for leaf 23, level 15",
+                              "children": [
+                                {
+                                  "name": "23_pad_14",
+                                  "summary": "padding for leaf 23, level 14",
+                                  "children": [
+                                    {
+                                      "name": "23_pad_13",
+                                      "summary": "padding for leaf 23, level 13",
+                                      "children": [
+                                        {
+                                          "name": "23_pad_12",
+                                          "summary": "padding for leaf 23, level 12",
+                                          "children": [
+                                            {
+                                              "name": "23_pad_11",
+                                              "summary": "padding for leaf 23, level 11",
+                                              "children": [
+                                                {
+                                                  "name": "23_pad_10",
+                                                  "summary": "padding for leaf 23, level 10",
+                                                  "children": [
+                                                    {
+                                                      "name": "23_pad_9",
+                                                      "summary": "padding for leaf 23, level 9",
+                                                      "children": [
+                                                        {
+                                                          "name": "23_pad_8",
+                                                          "summary": "padding for leaf 23, level 8",
+                                                          "children": [
+                                                            {
+                                                              "name": "23_pad_7",
+                                                              "summary": "padding for leaf 23, level 7",
+                                                              "children": [
+                                                                {
+                                                                  "name": "23_pad_6",
+                                                                  "summary": "padding for leaf 23, level 6",
+                                                                  "children": [
+                                                                    {
+                                                                      "name": "23_pad_5",
+                                                                      "summary": "padding for leaf 23, level 5",
+                                                                      "children": [
+                                                                        {
+                                                                          "name": "23_pad_4",
+                                                                          "summary": "padding for leaf 23, level 4",
+                                                                          "children": [
+                                                                            {
+                                                                              "name": "23_pad_3",
+                                                                              "summary": "padding for leaf 23, level 3",
+                                                                              "children": [
+                                                                                {
+                                                                                  "name": "23_pad_2",
+                                                                                  "summary": "padding for leaf 23, level 2",
+                                                                                  "children": [
+                                                                                    {
+                                                                                      "name": "23_pad_1",
+                                                                                      "summary": "padding for leaf 23, level 1",
+                                                                                      "children": [
+                                                                                        {
+                                                                                          "name": "23_pad_0",
+                                                                                          "summary": "padding for leaf 23, level 0",
+                                                                                          "children": [
+                                                                                            {
+                                                                                              "name": "23",
+                                                                                              "summary": "Mobilisation de l'Association des archivistes français autour des enjeux liés à l'accès, la déclassification et la gestion des archives classées secret-défense, avec un plaidoyer pour la transparence et la défense du droit d'accès aux archives publiques.",
+                                                                                              "children": []
+                                                                                            }
+                                                                                          ]
+                                                                                        }
+                                                                                      ]
+                                                                                    }
+                                                                                  ]
+                                                                                }
+                                                                              ]
+                                                                            }
+                                                                          ]
+                                                                        }
+                                                                      ]
+                                                                    }
+                                                                  ]
+                                                                }
+                                                              ]
+                                                            }
+                                                          ]
+                                                        }
+                                                      ]
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "32",
+                  "summary": "Merge 0.58",
+                  "children": [
+                    {
+                      "name": "14_pad_17",
+                      "summary": "padding for leaf 14, level 17",
+                      "children": [
+                        {
+                          "name": "14_pad_16",
+                          "summary": "padding for leaf 14, level 16",
+                          "children": [
+                            {
+                              "name": "14_pad_15",
+                              "summary": "padding for leaf 14, level 15",
+                              "children": [
+                                {
+                                  "name": "14_pad_14",
+                                  "summary": "padding for leaf 14, level 14",
+                                  "children": [
+                                    {
+                                      "name": "14_pad_13",
+                                      "summary": "padding for leaf 14, level 13",
+                                      "children": [
+                                        {
+                                          "name": "14_pad_12",
+                                          "summary": "padding for leaf 14, level 12",
+                                          "children": [
+                                            {
+                                              "name": "14_pad_11",
+                                              "summary": "padding for leaf 14, level 11",
+                                              "children": [
+                                                {
+                                                  "name": "14_pad_10",
+                                                  "summary": "padding for leaf 14, level 10",
+                                                  "children": [
+                                                    {
+                                                      "name": "14_pad_9",
+                                                      "summary": "padding for leaf 14, level 9",
+                                                      "children": [
+                                                        {
+                                                          "name": "14_pad_8",
+                                                          "summary": "padding for leaf 14, level 8",
+                                                          "children": [
+                                                            {
+                                                              "name": "14_pad_7",
+                                                              "summary": "padding for leaf 14, level 7",
+                                                              "children": [
+                                                                {
+                                                                  "name": "14_pad_6",
+                                                                  "summary": "padding for leaf 14, level 6",
+                                                                  "children": [
+                                                                    {
+                                                                      "name": "14_pad_5",
+                                                                      "summary": "padding for leaf 14, level 5",
+                                                                      "children": [
+                                                                        {
+                                                                          "name": "14_pad_4",
+                                                                          "summary": "padding for leaf 14, level 4",
+                                                                          "children": [
+                                                                            {
+                                                                              "name": "14_pad_3",
+                                                                              "summary": "padding for leaf 14, level 3",
+                                                                              "children": [
+                                                                                {
+                                                                                  "name": "14_pad_2",
+                                                                                  "summary": "padding for leaf 14, level 2",
+                                                                                  "children": [
+                                                                                    {
+                                                                                      "name": "14_pad_1",
+                                                                                      "summary": "padding for leaf 14, level 1",
+                                                                                      "children": [
+                                                                                        {
+                                                                                          "name": "14_pad_0",
+                                                                                          "summary": "padding for leaf 14, level 0",
+                                                                                          "children": [
+                                                                                            {
+                                                                                              "name": "14",
+                                                                                              "summary": "Mobilisation de l'Association des archivistes français autour des enjeux liés à l'accès, la déclassification et la gestion des archives classées secret-défense, avec un plaidoyer pour la transparence et la défense du droit d'accès aux archives publiques.",
+                                                                                              "children": []
+                                                                                            }
+                                                                                          ]
+                                                                                        }
+                                                                                      ]
+                                                                                    }
+                                                                                  ]
+                                                                                }
+                                                                              ]
+                                                                            }
+                                                                          ]
+                                                                        }
+                                                                      ]
+                                                                    }
+                                                                  ]
+                                                                }
+                                                              ]
+                                                            }
+                                                          ]
+                                                        }
+                                                      ]
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "29",
+                      "summary": "Merge 0.55",
+                      "children": [
+                        {
+                          "name": "4_pad_16",
+                          "summary": "padding for leaf 4, level 16",
+                          "children": [
+                            {
+                              "name": "4_pad_15",
+                              "summary": "padding for leaf 4, level 15",
+                              "children": [
+                                {
+                                  "name": "4_pad_14",
+                                  "summary": "padding for leaf 4, level 14",
+                                  "children": [
+                                    {
+                                      "name": "4_pad_13",
+                                      "summary": "padding for leaf 4, level 13",
+                                      "children": [
+                                        {
+                                          "name": "4_pad_12",
+                                          "summary": "padding for leaf 4, level 12",
+                                          "children": [
+                                            {
+                                              "name": "4_pad_11",
+                                              "summary": "padding for leaf 4, level 11",
+                                              "children": [
+                                                {
+                                                  "name": "4_pad_10",
+                                                  "summary": "padding for leaf 4, level 10",
+                                                  "children": [
+                                                    {
+                                                      "name": "4_pad_9",
+                                                      "summary": "padding for leaf 4, level 9",
+                                                      "children": [
+                                                        {
+                                                          "name": "4_pad_8",
+                                                          "summary": "padding for leaf 4, level 8",
+                                                          "children": [
+                                                            {
+                                                              "name": "4_pad_7",
+                                                              "summary": "padding for leaf 4, level 7",
+                                                              "children": [
+                                                                {
+                                                                  "name": "4_pad_6",
+                                                                  "summary": "padding for leaf 4, level 6",
+                                                                  "children": [
+                                                                    {
+                                                                      "name": "4_pad_5",
+                                                                      "summary": "padding for leaf 4, level 5",
+                                                                      "children": [
+                                                                        {
+                                                                          "name": "4_pad_4",
+                                                                          "summary": "padding for leaf 4, level 4",
+                                                                          "children": [
+                                                                            {
+                                                                              "name": "4_pad_3",
+                                                                              "summary": "padding for leaf 4, level 3",
+                                                                              "children": [
+                                                                                {
+                                                                                  "name": "4_pad_2",
+                                                                                  "summary": "padding for leaf 4, level 2",
+                                                                                  "children": [
+                                                                                    {
+                                                                                      "name": "4_pad_1",
+                                                                                      "summary": "padding for leaf 4, level 1",
+                                                                                      "children": [
+                                                                                        {
+                                                                                          "name": "4_pad_0",
+                                                                                          "summary": "padding for leaf 4, level 0",
+                                                                                          "children": [
+                                                                                            {
+                                                                                              "name": "4",
+                                                                                              "summary": "Mobilisation de l'Association des archivistes français autour des enjeux liés à l'accès, la déclassification et la gestion des archives classées secret-défense, avec un plaidoyer pour la transparence et la défense du droit d'accès aux archives publiques.",
+                                                                                              "children": []
+                                                                                            }
+                                                                                          ]
+                                                                                        }
+                                                                                      ]
+                                                                                    }
+                                                                                  ]
+                                                                                }
+                                                                              ]
+                                                                            }
+                                                                          ]
+                                                                        }
+                                                                      ]
+                                                                    }
+                                                                  ]
+                                                                }
+                                                              ]
+                                                            }
+                                                          ]
+                                                        }
+                                                      ]
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "28",
+                          "summary": "Merge 0.52",
+                          "children": [
+                            {
+                              "name": "25",
+                              "summary": "Merge 0.41",
+                              "children": [
+                                {
+                                  "name": "10_pad_14",
+                                  "summary": "padding for leaf 10, level 14",
+                                  "children": [
+                                    {
+                                      "name": "10_pad_13",
+                                      "summary": "padding for leaf 10, level 13",
+                                      "children": [
+                                        {
+                                          "name": "10_pad_12",
+                                          "summary": "padding for leaf 10, level 12",
+                                          "children": [
+                                            {
+                                              "name": "10_pad_11",
+                                              "summary": "padding for leaf 10, level 11",
+                                              "children": [
+                                                {
+                                                  "name": "10_pad_10",
+                                                  "summary": "padding for leaf 10, level 10",
+                                                  "children": [
+                                                    {
+                                                      "name": "10_pad_9",
+                                                      "summary": "padding for leaf 10, level 9",
+                                                      "children": [
+                                                        {
+                                                          "name": "10_pad_8",
+                                                          "summary": "padding for leaf 10, level 8",
+                                                          "children": [
+                                                            {
+                                                              "name": "10_pad_7",
+                                                              "summary": "padding for leaf 10, level 7",
+                                                              "children": [
+                                                                {
+                                                                  "name": "10_pad_6",
+                                                                  "summary": "padding for leaf 10, level 6",
+                                                                  "children": [
+                                                                    {
+                                                                      "name": "10_pad_5",
+                                                                      "summary": "padding for leaf 10, level 5",
+                                                                      "children": [
+                                                                        {
+                                                                          "name": "10_pad_4",
+                                                                          "summary": "padding for leaf 10, level 4",
+                                                                          "children": [
+                                                                            {
+                                                                              "name": "10_pad_3",
+                                                                              "summary": "padding for leaf 10, level 3",
+                                                                              "children": [
+                                                                                {
+                                                                                  "name": "10_pad_2",
+                                                                                  "summary": "padding for leaf 10, level 2",
+                                                                                  "children": [
+                                                                                    {
+                                                                                      "name": "10_pad_1",
+                                                                                      "summary": "padding for leaf 10, level 1",
+                                                                                      "children": [
+                                                                                        {
+                                                                                          "name": "10_pad_0",
+                                                                                          "summary": "padding for leaf 10, level 0",
+                                                                                          "children": [
+                                                                                            {
+                                                                                              "name": "10",
+                                                                                              "summary": "Mobilisation de l'Association des archivistes français autour des enjeux liés à l'accès, la déclassification et la gestion des archives classées secret-défense, avec un plaidoyer pour la transparence et la défense du droit d'accès aux archives publiques.",
+                                                                                              "children": []
+                                                                                            }
+                                                                                          ]
+                                                                                        }
+                                                                                      ]
+                                                                                    }
+                                                                                  ]
+                                                                                }
+                                                                              ]
+                                                                            }
+                                                                          ]
+                                                                        }
+                                                                      ]
+                                                                    }
+                                                                  ]
+                                                                }
+                                                              ]
+                                                            }
+                                                          ]
+                                                        }
+                                                      ]
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                },
+                                {
+                                  "name": "20_pad_14",
+                                  "summary": "padding for leaf 20, level 14",
+                                  "children": [
+                                    {
+                                      "name": "20_pad_13",
+                                      "summary": "padding for leaf 20, level 13",
+                                      "children": [
+                                        {
+                                          "name": "20_pad_12",
+                                          "summary": "padding for leaf 20, level 12",
+                                          "children": [
+                                            {
+                                              "name": "20_pad_11",
+                                              "summary": "padding for leaf 20, level 11",
+                                              "children": [
+                                                {
+                                                  "name": "20_pad_10",
+                                                  "summary": "padding for leaf 20, level 10",
+                                                  "children": [
+                                                    {
+                                                      "name": "20_pad_9",
+                                                      "summary": "padding for leaf 20, level 9",
+                                                      "children": [
+                                                        {
+                                                          "name": "20_pad_8",
+                                                          "summary": "padding for leaf 20, level 8",
+                                                          "children": [
+                                                            {
+                                                              "name": "20_pad_7",
+                                                              "summary": "padding for leaf 20, level 7",
+                                                              "children": [
+                                                                {
+                                                                  "name": "20_pad_6",
+                                                                  "summary": "padding for leaf 20, level 6",
+                                                                  "children": [
+                                                                    {
+                                                                      "name": "20_pad_5",
+                                                                      "summary": "padding for leaf 20, level 5",
+                                                                      "children": [
+                                                                        {
+                                                                          "name": "20_pad_4",
+                                                                          "summary": "padding for leaf 20, level 4",
+                                                                          "children": [
+                                                                            {
+                                                                              "name": "20_pad_3",
+                                                                              "summary": "padding for leaf 20, level 3",
+                                                                              "children": [
+                                                                                {
+                                                                                  "name": "20_pad_2",
+                                                                                  "summary": "padding for leaf 20, level 2",
+                                                                                  "children": [
+                                                                                    {
+                                                                                      "name": "20_pad_1",
+                                                                                      "summary": "padding for leaf 20, level 1",
+                                                                                      "children": [
+                                                                                        {
+                                                                                          "name": "20_pad_0",
+                                                                                          "summary": "padding for leaf 20, level 0",
+                                                                                          "children": [
+                                                                                            {
+                                                                                              "name": "20",
+                                                                                              "summary": "Mobilisation de l'Association des archivistes français autour des enjeux liés à l'accès, la déclassification et la gestion des archives classées secret-défense, avec un plaidoyer pour la transparence et la défense du droit d'accès aux archives publiques.",
+                                                                                              "children": []
+                                                                                            }
+                                                                                          ]
+                                                                                        }
+                                                                                      ]
+                                                                                    }
+                                                                                  ]
+                                                                                }
+                                                                              ]
+                                                                            }
+                                                                          ]
+                                                                        }
+                                                                      ]
+                                                                    }
+                                                                  ]
+                                                                }
+                                                              ]
+                                                            }
+                                                          ]
+                                                        }
+                                                      ]
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "name": "26",
+                              "summary": "Merge 0.43",
+                              "children": [
+                                {
+                                  "name": "19_pad_14",
+                                  "summary": "padding for leaf 19, level 14",
+                                  "children": [
+                                    {
+                                      "name": "19_pad_13",
+                                      "summary": "padding for leaf 19, level 13",
+                                      "children": [
+                                        {
+                                          "name": "19_pad_12",
+                                          "summary": "padding for leaf 19, level 12",
+                                          "children": [
+                                            {
+                                              "name": "19_pad_11",
+                                              "summary": "padding for leaf 19, level 11",
+                                              "children": [
+                                                {
+                                                  "name": "19_pad_10",
+                                                  "summary": "padding for leaf 19, level 10",
+                                                  "children": [
+                                                    {
+                                                      "name": "19_pad_9",
+                                                      "summary": "padding for leaf 19, level 9",
+                                                      "children": [
+                                                        {
+                                                          "name": "19_pad_8",
+                                                          "summary": "padding for leaf 19, level 8",
+                                                          "children": [
+                                                            {
+                                                              "name": "19_pad_7",
+                                                              "summary": "padding for leaf 19, level 7",
+                                                              "children": [
+                                                                {
+                                                                  "name": "19_pad_6",
+                                                                  "summary": "padding for leaf 19, level 6",
+                                                                  "children": [
+                                                                    {
+                                                                      "name": "19_pad_5",
+                                                                      "summary": "padding for leaf 19, level 5",
+                                                                      "children": [
+                                                                        {
+                                                                          "name": "19_pad_4",
+                                                                          "summary": "padding for leaf 19, level 4",
+                                                                          "children": [
+                                                                            {
+                                                                              "name": "19_pad_3",
+                                                                              "summary": "padding for leaf 19, level 3",
+                                                                              "children": [
+                                                                                {
+                                                                                  "name": "19_pad_2",
+                                                                                  "summary": "padding for leaf 19, level 2",
+                                                                                  "children": [
+                                                                                    {
+                                                                                      "name": "19_pad_1",
+                                                                                      "summary": "padding for leaf 19, level 1",
+                                                                                      "children": [
+                                                                                        {
+                                                                                          "name": "19_pad_0",
+                                                                                          "summary": "padding for leaf 19, level 0",
+                                                                                          "children": [
+                                                                                            {
+                                                                                              "name": "19",
+                                                                                              "summary": "Mobilisation de l'Association des archivistes français autour des enjeux liés à l'accès, la déclassification et la gestion des archives classées secret-défense, avec un plaidoyer pour la transparence et la défense du droit d'accès aux archives publiques.",
+                                                                                              "children": []
+                                                                                            }
+                                                                                          ]
+                                                                                        }
+                                                                                      ]
+                                                                                    }
+                                                                                  ]
+                                                                                }
+                                                                              ]
+                                                                            }
+                                                                          ]
+                                                                        }
+                                                                      ]
+                                                                    }
+                                                                  ]
+                                                                }
+                                                              ]
+                                                            }
+                                                          ]
+                                                        }
+                                                      ]
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                },
+                                {
+                                  "name": "24",
+                                  "summary": "Merge 0.36",
+                                  "children": [
+                                    {
+                                      "name": "3_pad_13",
+                                      "summary": "padding for leaf 3, level 13",
+                                      "children": [
+                                        {
+                                          "name": "3_pad_12",
+                                          "summary": "padding for leaf 3, level 12",
+                                          "children": [
+                                            {
+                                              "name": "3_pad_11",
+                                              "summary": "padding for leaf 3, level 11",
+                                              "children": [
+                                                {
+                                                  "name": "3_pad_10",
+                                                  "summary": "padding for leaf 3, level 10",
+                                                  "children": [
+                                                    {
+                                                      "name": "3_pad_9",
+                                                      "summary": "padding for leaf 3, level 9",
+                                                      "children": [
+                                                        {
+                                                          "name": "3_pad_8",
+                                                          "summary": "padding for leaf 3, level 8",
+                                                          "children": [
+                                                            {
+                                                              "name": "3_pad_7",
+                                                              "summary": "padding for leaf 3, level 7",
+                                                              "children": [
+                                                                {
+                                                                  "name": "3_pad_6",
+                                                                  "summary": "padding for leaf 3, level 6",
+                                                                  "children": [
+                                                                    {
+                                                                      "name": "3_pad_5",
+                                                                      "summary": "padding for leaf 3, level 5",
+                                                                      "children": [
+                                                                        {
+                                                                          "name": "3_pad_4",
+                                                                          "summary": "padding for leaf 3, level 4",
+                                                                          "children": [
+                                                                            {
+                                                                              "name": "3_pad_3",
+                                                                              "summary": "padding for leaf 3, level 3",
+                                                                              "children": [
+                                                                                {
+                                                                                  "name": "3_pad_2",
+                                                                                  "summary": "padding for leaf 3, level 2",
+                                                                                  "children": [
+                                                                                    {
+                                                                                      "name": "3_pad_1",
+                                                                                      "summary": "padding for leaf 3, level 1",
+                                                                                      "children": [
+                                                                                        {
+                                                                                          "name": "3_pad_0",
+                                                                                          "summary": "padding for leaf 3, level 0",
+                                                                                          "children": [
+                                                                                            {
+                                                                                              "name": "3",
+                                                                                              "summary": "Mobilisation de l'Association des archivistes français autour des enjeux liés à l'accès, la déclassification et la gestion des archives classées secret-défense, avec un plaidoyer pour la transparence et la défense du droit d'accès aux archives publiques.",
+                                                                                              "children": []
+                                                                                            }
+                                                                                          ]
+                                                                                        }
+                                                                                      ]
+                                                                                    }
+                                                                                  ]
+                                                                                }
+                                                                              ]
+                                                                            }
+                                                                          ]
+                                                                        }
+                                                                      ]
+                                                                    }
+                                                                  ]
+                                                                }
+                                                              ]
+                                                            }
+                                                          ]
+                                                        }
+                                                      ]
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "name": "21_pad_13",
+                                      "summary": "padding for leaf 21, level 13",
+                                      "children": [
+                                        {
+                                          "name": "21_pad_12",
+                                          "summary": "padding for leaf 21, level 12",
+                                          "children": [
+                                            {
+                                              "name": "21_pad_11",
+                                              "summary": "padding for leaf 21, level 11",
+                                              "children": [
+                                                {
+                                                  "name": "21_pad_10",
+                                                  "summary": "padding for leaf 21, level 10",
+                                                  "children": [
+                                                    {
+                                                      "name": "21_pad_9",
+                                                      "summary": "padding for leaf 21, level 9",
+                                                      "children": [
+                                                        {
+                                                          "name": "21_pad_8",
+                                                          "summary": "padding for leaf 21, level 8",
+                                                          "children": [
+                                                            {
+                                                              "name": "21_pad_7",
+                                                              "summary": "padding for leaf 21, level 7",
+                                                              "children": [
+                                                                {
+                                                                  "name": "21_pad_6",
+                                                                  "summary": "padding for leaf 21, level 6",
+                                                                  "children": [
+                                                                    {
+                                                                      "name": "21_pad_5",
+                                                                      "summary": "padding for leaf 21, level 5",
+                                                                      "children": [
+                                                                        {
+                                                                          "name": "21_pad_4",
+                                                                          "summary": "padding for leaf 21, level 4",
+                                                                          "children": [
+                                                                            {
+                                                                              "name": "21_pad_3",
+                                                                              "summary": "padding for leaf 21, level 3",
+                                                                              "children": [
+                                                                                {
+                                                                                  "name": "21_pad_2",
+                                                                                  "summary": "padding for leaf 21, level 2",
+                                                                                  "children": [
+                                                                                    {
+                                                                                      "name": "21_pad_1",
+                                                                                      "summary": "padding for leaf 21, level 1",
+                                                                                      "children": [
+                                                                                        {
+                                                                                          "name": "21_pad_0",
+                                                                                          "summary": "padding for leaf 21, level 0",
+                                                                                          "children": [
+                                                                                            {
+                                                                                              "name": "21",
+                                                                                              "summary": "Mobilisation de l'Association des archivistes français autour des enjeux liés à l'accès, la déclassification et la gestion des archives classées secret-défense, avec un plaidoyer pour la transparence et la défense du droit d'accès aux archives publiques.",
+                                                                                              "children": []
+                                                                                            }
+                                                                                          ]
+                                                                                        }
+                                                                                      ]
+                                                                                    }
+                                                                                  ]
+                                                                                }
+                                                                              ]
+                                                                            }
+                                                                          ]
+                                                                        }
+                                                                      ]
+                                                                    }
+                                                                  ]
+                                                                }
+                                                              ]
+                                                            }
+                                                          ]
+                                                        }
+                                                      ]
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "41",
+              "summary": "Merge 0.96",
+              "children": [
+                {
+                  "name": "39",
+                  "summary": "Merge 0.87",
+                  "children": [
+                    {
+                      "name": "11_pad_17",
+                      "summary": "padding for leaf 11, level 17",
+                      "children": [
+                        {
+                          "name": "11_pad_16",
+                          "summary": "padding for leaf 11, level 16",
+                          "children": [
+                            {
+                              "name": "11_pad_15",
+                              "summary": "padding for leaf 11, level 15",
+                              "children": [
+                                {
+                                  "name": "11_pad_14",
+                                  "summary": "padding for leaf 11, level 14",
+                                  "children": [
+                                    {
+                                      "name": "11_pad_13",
+                                      "summary": "padding for leaf 11, level 13",
+                                      "children": [
+                                        {
+                                          "name": "11_pad_12",
+                                          "summary": "padding for leaf 11, level 12",
+                                          "children": [
+                                            {
+                                              "name": "11_pad_11",
+                                              "summary": "padding for leaf 11, level 11",
+                                              "children": [
+                                                {
+                                                  "name": "11_pad_10",
+                                                  "summary": "padding for leaf 11, level 10",
+                                                  "children": [
+                                                    {
+                                                      "name": "11_pad_9",
+                                                      "summary": "padding for leaf 11, level 9",
+                                                      "children": [
+                                                        {
+                                                          "name": "11_pad_8",
+                                                          "summary": "padding for leaf 11, level 8",
+                                                          "children": [
+                                                            {
+                                                              "name": "11_pad_7",
+                                                              "summary": "padding for leaf 11, level 7",
+                                                              "children": [
+                                                                {
+                                                                  "name": "11_pad_6",
+                                                                  "summary": "padding for leaf 11, level 6",
+                                                                  "children": [
+                                                                    {
+                                                                      "name": "11_pad_5",
+                                                                      "summary": "padding for leaf 11, level 5",
+                                                                      "children": [
+                                                                        {
+                                                                          "name": "11_pad_4",
+                                                                          "summary": "padding for leaf 11, level 4",
+                                                                          "children": [
+                                                                            {
+                                                                              "name": "11_pad_3",
+                                                                              "summary": "padding for leaf 11, level 3",
+                                                                              "children": [
+                                                                                {
+                                                                                  "name": "11_pad_2",
+                                                                                  "summary": "padding for leaf 11, level 2",
+                                                                                  "children": [
+                                                                                    {
+                                                                                      "name": "11_pad_1",
+                                                                                      "summary": "padding for leaf 11, level 1",
+                                                                                      "children": [
+                                                                                        {
+                                                                                          "name": "11_pad_0",
+                                                                                          "summary": "padding for leaf 11, level 0",
+                                                                                          "children": [
+                                                                                            {
+                                                                                              "name": "11",
+                                                                                              "summary": "Soutien et défense active de l'AAF face aux critiques et attaques, notamment sur la question de l'accès aux archives classées secret-défense, avec une mobilisation politique et associative pour préserver les libertés publiques et la mémoire historique.",
+                                                                                              "children": []
+                                                                                            }
+                                                                                          ]
+                                                                                        }
+                                                                                      ]
+                                                                                    }
+                                                                                  ]
+                                                                                }
+                                                                              ]
+                                                                            }
+                                                                          ]
+                                                                        }
+                                                                      ]
+                                                                    }
+                                                                  ]
+                                                                }
+                                                              ]
+                                                            }
+                                                          ]
+                                                        }
+                                                      ]
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "38",
+                      "summary": "Merge 0.80",
+                      "children": [
+                        {
+                          "name": "2_pad_16",
+                          "summary": "padding for leaf 2, level 16",
+                          "children": [
+                            {
+                              "name": "2_pad_15",
+                              "summary": "padding for leaf 2, level 15",
+                              "children": [
+                                {
+                                  "name": "2_pad_14",
+                                  "summary": "padding for leaf 2, level 14",
+                                  "children": [
+                                    {
+                                      "name": "2_pad_13",
+                                      "summary": "padding for leaf 2, level 13",
+                                      "children": [
+                                        {
+                                          "name": "2_pad_12",
+                                          "summary": "padding for leaf 2, level 12",
+                                          "children": [
+                                            {
+                                              "name": "2_pad_11",
+                                              "summary": "padding for leaf 2, level 11",
+                                              "children": [
+                                                {
+                                                  "name": "2_pad_10",
+                                                  "summary": "padding for leaf 2, level 10",
+                                                  "children": [
+                                                    {
+                                                      "name": "2_pad_9",
+                                                      "summary": "padding for leaf 2, level 9",
+                                                      "children": [
+                                                        {
+                                                          "name": "2_pad_8",
+                                                          "summary": "padding for leaf 2, level 8",
+                                                          "children": [
+                                                            {
+                                                              "name": "2_pad_7",
+                                                              "summary": "padding for leaf 2, level 7",
+                                                              "children": [
+                                                                {
+                                                                  "name": "2_pad_6",
+                                                                  "summary": "padding for leaf 2, level 6",
+                                                                  "children": [
+                                                                    {
+                                                                      "name": "2_pad_5",
+                                                                      "summary": "padding for leaf 2, level 5",
+                                                                      "children": [
+                                                                        {
+                                                                          "name": "2_pad_4",
+                                                                          "summary": "padding for leaf 2, level 4",
+                                                                          "children": [
+                                                                            {
+                                                                              "name": "2_pad_3",
+                                                                              "summary": "padding for leaf 2, level 3",
+                                                                              "children": [
+                                                                                {
+                                                                                  "name": "2_pad_2",
+                                                                                  "summary": "padding for leaf 2, level 2",
+                                                                                  "children": [
+                                                                                    {
+                                                                                      "name": "2_pad_1",
+                                                                                      "summary": "padding for leaf 2, level 1",
+                                                                                      "children": [
+                                                                                        {
+                                                                                          "name": "2_pad_0",
+                                                                                          "summary": "padding for leaf 2, level 0",
+                                                                                          "children": [
+                                                                                            {
+                                                                                              "name": "2",
+                                                                                              "summary": "Gestion interne de l'AAF concernant les ressources humaines, les finances, la permanence et les publications, avec un souci d'amélioration des conditions de travail et de la viabilité économique de l'association et de sa filiale éditions.",
+                                                                                              "children": []
+                                                                                            }
+                                                                                          ]
+                                                                                        }
+                                                                                      ]
+                                                                                    }
+                                                                                  ]
+                                                                                }
+                                                                              ]
+                                                                            }
+                                                                          ]
+                                                                        }
+                                                                      ]
+                                                                    }
+                                                                  ]
+                                                                }
+                                                              ]
+                                                            }
+                                                          ]
+                                                        }
+                                                      ]
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "37",
+                          "summary": "Merge 0.72",
+                          "children": [
+                            {
+                              "name": "6_pad_15",
+                              "summary": "padding for leaf 6, level 15",
+                              "children": [
+                                {
+                                  "name": "6_pad_14",
+                                  "summary": "padding for leaf 6, level 14",
+                                  "children": [
+                                    {
+                                      "name": "6_pad_13",
+                                      "summary": "padding for leaf 6, level 13",
+                                      "children": [
+                                        {
+                                          "name": "6_pad_12",
+                                          "summary": "padding for leaf 6, level 12",
+                                          "children": [
+                                            {
+                                              "name": "6_pad_11",
+                                              "summary": "padding for leaf 6, level 11",
+                                              "children": [
+                                                {
+                                                  "name": "6_pad_10",
+                                                  "summary": "padding for leaf 6, level 10",
+                                                  "children": [
+                                                    {
+                                                      "name": "6_pad_9",
+                                                      "summary": "padding for leaf 6, level 9",
+                                                      "children": [
+                                                        {
+                                                          "name": "6_pad_8",
+                                                          "summary": "padding for leaf 6, level 8",
+                                                          "children": [
+                                                            {
+                                                              "name": "6_pad_7",
+                                                              "summary": "padding for leaf 6, level 7",
+                                                              "children": [
+                                                                {
+                                                                  "name": "6_pad_6",
+                                                                  "summary": "padding for leaf 6, level 6",
+                                                                  "children": [
+                                                                    {
+                                                                      "name": "6_pad_5",
+                                                                      "summary": "padding for leaf 6, level 5",
+                                                                      "children": [
+                                                                        {
+                                                                          "name": "6_pad_4",
+                                                                          "summary": "padding for leaf 6, level 4",
+                                                                          "children": [
+                                                                            {
+                                                                              "name": "6_pad_3",
+                                                                              "summary": "padding for leaf 6, level 3",
+                                                                              "children": [
+                                                                                {
+                                                                                  "name": "6_pad_2",
+                                                                                  "summary": "padding for leaf 6, level 2",
+                                                                                  "children": [
+                                                                                    {
+                                                                                      "name": "6_pad_1",
+                                                                                      "summary": "padding for leaf 6, level 1",
+                                                                                      "children": [
+                                                                                        {
+                                                                                          "name": "6_pad_0",
+                                                                                          "summary": "padding for leaf 6, level 0",
+                                                                                          "children": [
+                                                                                            {
+                                                                                              "name": "6",
+                                                                                              "summary": "Engagement de l'AAF dans la reconnaissance, la valorisation et la formation autour des archives LGBTQI, avec une volonté de collaboration entre archivistes, militants et institutions pour une meilleure prise en compte de ces archives spécifiques.",
+                                                                                              "children": []
+                                                                                            }
+                                                                                          ]
+                                                                                        }
+                                                                                      ]
+                                                                                    }
+                                                                                  ]
+                                                                                }
+                                                                              ]
+                                                                            }
+                                                                          ]
+                                                                        }
+                                                                      ]
+                                                                    }
+                                                                  ]
+                                                                }
+                                                              ]
+                                                            }
+                                                          ]
+                                                        }
+                                                      ]
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "name": "35",
+                              "summary": "Merge 0.66",
+                              "children": [
+                                {
+                                  "name": "1_pad_14",
+                                  "summary": "padding for leaf 1, level 14",
+                                  "children": [
+                                    {
+                                      "name": "1_pad_13",
+                                      "summary": "padding for leaf 1, level 13",
+                                      "children": [
+                                        {
+                                          "name": "1_pad_12",
+                                          "summary": "padding for leaf 1, level 12",
+                                          "children": [
+                                            {
+                                              "name": "1_pad_11",
+                                              "summary": "padding for leaf 1, level 11",
+                                              "children": [
+                                                {
+                                                  "name": "1_pad_10",
+                                                  "summary": "padding for leaf 1, level 10",
+                                                  "children": [
+                                                    {
+                                                      "name": "1_pad_9",
+                                                      "summary": "padding for leaf 1, level 9",
+                                                      "children": [
+                                                        {
+                                                          "name": "1_pad_8",
+                                                          "summary": "padding for leaf 1, level 8",
+                                                          "children": [
+                                                            {
+                                                              "name": "1_pad_7",
+                                                              "summary": "padding for leaf 1, level 7",
+                                                              "children": [
+                                                                {
+                                                                  "name": "1_pad_6",
+                                                                  "summary": "padding for leaf 1, level 6",
+                                                                  "children": [
+                                                                    {
+                                                                      "name": "1_pad_5",
+                                                                      "summary": "padding for leaf 1, level 5",
+                                                                      "children": [
+                                                                        {
+                                                                          "name": "1_pad_4",
+                                                                          "summary": "padding for leaf 1, level 4",
+                                                                          "children": [
+                                                                            {
+                                                                              "name": "1_pad_3",
+                                                                              "summary": "padding for leaf 1, level 3",
+                                                                              "children": [
+                                                                                {
+                                                                                  "name": "1_pad_2",
+                                                                                  "summary": "padding for leaf 1, level 2",
+                                                                                  "children": [
+                                                                                    {
+                                                                                      "name": "1_pad_1",
+                                                                                      "summary": "padding for leaf 1, level 1",
+                                                                                      "children": [
+                                                                                        {
+                                                                                          "name": "1_pad_0",
+                                                                                          "summary": "padding for leaf 1, level 0",
+                                                                                          "children": [
+                                                                                            {
+                                                                                              "name": "1",
+                                                                                              "summary": "Organisation et coordination des actions de l'AAF sur la réforme du droit des archives, la formation professionnelle, la normalisation, et la mobilisation des membres face aux enjeux liés à la sécurité et à la gestion des archives.",
+                                                                                              "children": []
+                                                                                            }
+                                                                                          ]
+                                                                                        }
+                                                                                      ]
+                                                                                    }
+                                                                                  ]
+                                                                                }
+                                                                              ]
+                                                                            }
+                                                                          ]
+                                                                        }
+                                                                      ]
+                                                                    }
+                                                                  ]
+                                                                }
+                                                              ]
+                                                            }
+                                                          ]
+                                                        }
+                                                      ]
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                },
+                                {
+                                  "name": "31",
+                                  "summary": "Merge 0.57",
+                                  "children": [
+                                    {
+                                      "name": "18_pad_13",
+                                      "summary": "padding for leaf 18, level 13",
+                                      "children": [
+                                        {
+                                          "name": "18_pad_12",
+                                          "summary": "padding for leaf 18, level 12",
+                                          "children": [
+                                            {
+                                              "name": "18_pad_11",
+                                              "summary": "padding for leaf 18, level 11",
+                                              "children": [
+                                                {
+                                                  "name": "18_pad_10",
+                                                  "summary": "padding for leaf 18, level 10",
+                                                  "children": [
+                                                    {
+                                                      "name": "18_pad_9",
+                                                      "summary": "padding for leaf 18, level 9",
+                                                      "children": [
+                                                        {
+                                                          "name": "18_pad_8",
+                                                          "summary": "padding for leaf 18, level 8",
+                                                          "children": [
+                                                            {
+                                                              "name": "18_pad_7",
+                                                              "summary": "padding for leaf 18, level 7",
+                                                              "children": [
+                                                                {
+                                                                  "name": "18_pad_6",
+                                                                  "summary": "padding for leaf 18, level 6",
+                                                                  "children": [
+                                                                    {
+                                                                      "name": "18_pad_5",
+                                                                      "summary": "padding for leaf 18, level 5",
+                                                                      "children": [
+                                                                        {
+                                                                          "name": "18_pad_4",
+                                                                          "summary": "padding for leaf 18, level 4",
+                                                                          "children": [
+                                                                            {
+                                                                              "name": "18_pad_3",
+                                                                              "summary": "padding for leaf 18, level 3",
+                                                                              "children": [
+                                                                                {
+                                                                                  "name": "18_pad_2",
+                                                                                  "summary": "padding for leaf 18, level 2",
+                                                                                  "children": [
+                                                                                    {
+                                                                                      "name": "18_pad_1",
+                                                                                      "summary": "padding for leaf 18, level 1",
+                                                                                      "children": [
+                                                                                        {
+                                                                                          "name": "18_pad_0",
+                                                                                          "summary": "padding for leaf 18, level 0",
+                                                                                          "children": [
+                                                                                            {
+                                                                                              "name": "18",
+                                                                                              "summary": "Organisation et coordination des actions de l'AAF sur la réforme du droit des archives, la formation professionnelle, la normalisation, et la mobilisation des membres face aux enjeux liés à la sécurité et à la gestion des archives.",
+                                                                                              "children": []
+                                                                                            }
+                                                                                          ]
+                                                                                        }
+                                                                                      ]
+                                                                                    }
+                                                                                  ]
+                                                                                }
+                                                                              ]
+                                                                            }
+                                                                          ]
+                                                                        }
+                                                                      ]
+                                                                    }
+                                                                  ]
+                                                                }
+                                                              ]
+                                                            }
+                                                          ]
+                                                        }
+                                                      ]
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    },
+                                    {
+                                      "name": "30",
+                                      "summary": "Merge 0.55",
+                                      "children": [
+                                        {
+                                          "name": "17_pad_12",
+                                          "summary": "padding for leaf 17, level 12",
+                                          "children": [
+                                            {
+                                              "name": "17_pad_11",
+                                              "summary": "padding for leaf 17, level 11",
+                                              "children": [
+                                                {
+                                                  "name": "17_pad_10",
+                                                  "summary": "padding for leaf 17, level 10",
+                                                  "children": [
+                                                    {
+                                                      "name": "17_pad_9",
+                                                      "summary": "padding for leaf 17, level 9",
+                                                      "children": [
+                                                        {
+                                                          "name": "17_pad_8",
+                                                          "summary": "padding for leaf 17, level 8",
+                                                          "children": [
+                                                            {
+                                                              "name": "17_pad_7",
+                                                              "summary": "padding for leaf 17, level 7",
+                                                              "children": [
+                                                                {
+                                                                  "name": "17_pad_6",
+                                                                  "summary": "padding for leaf 17, level 6",
+                                                                  "children": [
+                                                                    {
+                                                                      "name": "17_pad_5",
+                                                                      "summary": "padding for leaf 17, level 5",
+                                                                      "children": [
+                                                                        {
+                                                                          "name": "17_pad_4",
+                                                                          "summary": "padding for leaf 17, level 4",
+                                                                          "children": [
+                                                                            {
+                                                                              "name": "17_pad_3",
+                                                                              "summary": "padding for leaf 17, level 3",
+                                                                              "children": [
+                                                                                {
+                                                                                  "name": "17_pad_2",
+                                                                                  "summary": "padding for leaf 17, level 2",
+                                                                                  "children": [
+                                                                                    {
+                                                                                      "name": "17_pad_1",
+                                                                                      "summary": "padding for leaf 17, level 1",
+                                                                                      "children": [
+                                                                                        {
+                                                                                          "name": "17_pad_0",
+                                                                                          "summary": "padding for leaf 17, level 0",
+                                                                                          "children": [
+                                                                                            {
+                                                                                              "name": "17",
+                                                                                              "summary": "Organisation et coordination des actions de l'AAF sur la réforme du droit des archives, la formation professionnelle, la normalisation, et la mobilisation des membres face aux enjeux liés à la sécurité et à la gestion des archives.",
+                                                                                              "children": []
+                                                                                            }
+                                                                                          ]
+                                                                                        }
+                                                                                      ]
+                                                                                    }
+                                                                                  ]
+                                                                                }
+                                                                              ]
+                                                                            }
+                                                                          ]
+                                                                        }
+                                                                      ]
+                                                                    }
+                                                                  ]
+                                                                }
+                                                              ]
+                                                            }
+                                                          ]
+                                                        }
+                                                      ]
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        },
+                                        {
+                                          "name": "27",
+                                          "summary": "Merge 0.49",
+                                          "children": [
+                                            {
+                                              "name": "5_pad_11",
+                                              "summary": "padding for leaf 5, level 11",
+                                              "children": [
+                                                {
+                                                  "name": "5_pad_10",
+                                                  "summary": "padding for leaf 5, level 10",
+                                                  "children": [
+                                                    {
+                                                      "name": "5_pad_9",
+                                                      "summary": "padding for leaf 5, level 9",
+                                                      "children": [
+                                                        {
+                                                          "name": "5_pad_8",
+                                                          "summary": "padding for leaf 5, level 8",
+                                                          "children": [
+                                                            {
+                                                              "name": "5_pad_7",
+                                                              "summary": "padding for leaf 5, level 7",
+                                                              "children": [
+                                                                {
+                                                                  "name": "5_pad_6",
+                                                                  "summary": "padding for leaf 5, level 6",
+                                                                  "children": [
+                                                                    {
+                                                                      "name": "5_pad_5",
+                                                                      "summary": "padding for leaf 5, level 5",
+                                                                      "children": [
+                                                                        {
+                                                                          "name": "5_pad_4",
+                                                                          "summary": "padding for leaf 5, level 4",
+                                                                          "children": [
+                                                                            {
+                                                                              "name": "5_pad_3",
+                                                                              "summary": "padding for leaf 5, level 3",
+                                                                              "children": [
+                                                                                {
+                                                                                  "name": "5_pad_2",
+                                                                                  "summary": "padding for leaf 5, level 2",
+                                                                                  "children": [
+                                                                                    {
+                                                                                      "name": "5_pad_1",
+                                                                                      "summary": "padding for leaf 5, level 1",
+                                                                                      "children": [
+                                                                                        {
+                                                                                          "name": "5_pad_0",
+                                                                                          "summary": "padding for leaf 5, level 0",
+                                                                                          "children": [
+                                                                                            {
+                                                                                              "name": "5",
+                                                                                              "summary": "Organisation et coordination des actions de l'AAF sur la réforme du droit des archives, la formation professionnelle, la normalisation, et la mobilisation des membres face aux enjeux liés à la sécurité et à la gestion des archives.",
+                                                                                              "children": []
+                                                                                            }
+                                                                                          ]
+                                                                                        }
+                                                                                      ]
+                                                                                    }
+                                                                                  ]
+                                                                                }
+                                                                              ]
+                                                                            }
+                                                                          ]
+                                                                        }
+                                                                      ]
+                                                                    }
+                                                                  ]
+                                                                }
+                                                              ]
+                                                            }
+                                                          ]
+                                                        }
+                                                      ]
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            },
+                                            {
+                                              "name": "16_pad_11",
+                                              "summary": "padding for leaf 16, level 11",
+                                              "children": [
+                                                {
+                                                  "name": "16_pad_10",
+                                                  "summary": "padding for leaf 16, level 10",
+                                                  "children": [
+                                                    {
+                                                      "name": "16_pad_9",
+                                                      "summary": "padding for leaf 16, level 9",
+                                                      "children": [
+                                                        {
+                                                          "name": "16_pad_8",
+                                                          "summary": "padding for leaf 16, level 8",
+                                                          "children": [
+                                                            {
+                                                              "name": "16_pad_7",
+                                                              "summary": "padding for leaf 16, level 7",
+                                                              "children": [
+                                                                {
+                                                                  "name": "16_pad_6",
+                                                                  "summary": "padding for leaf 16, level 6",
+                                                                  "children": [
+                                                                    {
+                                                                      "name": "16_pad_5",
+                                                                      "summary": "padding for leaf 16, level 5",
+                                                                      "children": [
+                                                                        {
+                                                                          "name": "16_pad_4",
+                                                                          "summary": "padding for leaf 16, level 4",
+                                                                          "children": [
+                                                                            {
+                                                                              "name": "16_pad_3",
+                                                                              "summary": "padding for leaf 16, level 3",
+                                                                              "children": [
+                                                                                {
+                                                                                  "name": "16_pad_2",
+                                                                                  "summary": "padding for leaf 16, level 2",
+                                                                                  "children": [
+                                                                                    {
+                                                                                      "name": "16_pad_1",
+                                                                                      "summary": "padding for leaf 16, level 1",
+                                                                                      "children": [
+                                                                                        {
+                                                                                          "name": "16_pad_0",
+                                                                                          "summary": "padding for leaf 16, level 0",
+                                                                                          "children": [
+                                                                                            {
+                                                                                              "name": "16",
+                                                                                              "summary": "Organisation et coordination des actions de l'AAF sur la réforme du droit des archives, la formation professionnelle, la normalisation, et la mobilisation des membres face aux enjeux liés à la sécurité et à la gestion des archives.",
+                                                                                              "children": []
+                                                                                            }
+                                                                                          ]
+                                                                                        }
+                                                                                      ]
+                                                                                    }
+                                                                                  ]
+                                                                                }
+                                                                              ]
+                                                                            }
+                                                                          ]
+                                                                        }
+                                                                      ]
+                                                                    }
+                                                                  ]
+                                                                }
+                                                              ]
+                                                            }
+                                                          ]
+                                                        }
+                                                      ]
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "40",
+                  "summary": "Merge 0.88",
+                  "children": [
+                    {
+                      "name": "15_pad_17",
+                      "summary": "padding for leaf 15, level 17",
+                      "children": [
+                        {
+                          "name": "15_pad_16",
+                          "summary": "padding for leaf 15, level 16",
+                          "children": [
+                            {
+                              "name": "15_pad_15",
+                              "summary": "padding for leaf 15, level 15",
+                              "children": [
+                                {
+                                  "name": "15_pad_14",
+                                  "summary": "padding for leaf 15, level 14",
+                                  "children": [
+                                    {
+                                      "name": "15_pad_13",
+                                      "summary": "padding for leaf 15, level 13",
+                                      "children": [
+                                        {
+                                          "name": "15_pad_12",
+                                          "summary": "padding for leaf 15, level 12",
+                                          "children": [
+                                            {
+                                              "name": "15_pad_11",
+                                              "summary": "padding for leaf 15, level 11",
+                                              "children": [
+                                                {
+                                                  "name": "15_pad_10",
+                                                  "summary": "padding for leaf 15, level 10",
+                                                  "children": [
+                                                    {
+                                                      "name": "15_pad_9",
+                                                      "summary": "padding for leaf 15, level 9",
+                                                      "children": [
+                                                        {
+                                                          "name": "15_pad_8",
+                                                          "summary": "padding for leaf 15, level 8",
+                                                          "children": [
+                                                            {
+                                                              "name": "15_pad_7",
+                                                              "summary": "padding for leaf 15, level 7",
+                                                              "children": [
+                                                                {
+                                                                  "name": "15_pad_6",
+                                                                  "summary": "padding for leaf 15, level 6",
+                                                                  "children": [
+                                                                    {
+                                                                      "name": "15_pad_5",
+                                                                      "summary": "padding for leaf 15, level 5",
+                                                                      "children": [
+                                                                        {
+                                                                          "name": "15_pad_4",
+                                                                          "summary": "padding for leaf 15, level 4",
+                                                                          "children": [
+                                                                            {
+                                                                              "name": "15_pad_3",
+                                                                              "summary": "padding for leaf 15, level 3",
+                                                                              "children": [
+                                                                                {
+                                                                                  "name": "15_pad_2",
+                                                                                  "summary": "padding for leaf 15, level 2",
+                                                                                  "children": [
+                                                                                    {
+                                                                                      "name": "15_pad_1",
+                                                                                      "summary": "padding for leaf 15, level 1",
+                                                                                      "children": [
+                                                                                        {
+                                                                                          "name": "15_pad_0",
+                                                                                          "summary": "padding for leaf 15, level 0",
+                                                                                          "children": [
+                                                                                            {
+                                                                                              "name": "15",
+                                                                                              "summary": "Implication de l'AAF dans le débat public et médiatique sur les archives liées à la guerre d'Algérie, avec une vigilance sur les interprétations erronées et une volonté de clarifier la position du collectif d'archivistes et historiens.",
+                                                                                              "children": []
+                                                                                            }
+                                                                                          ]
+                                                                                        }
+                                                                                      ]
+                                                                                    }
+                                                                                  ]
+                                                                                }
+                                                                              ]
+                                                                            }
+                                                                          ]
+                                                                        }
+                                                                      ]
+                                                                    }
+                                                                  ]
+                                                                }
+                                                              ]
+                                                            }
+                                                          ]
+                                                        }
+                                                      ]
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "33",
+                      "summary": "Merge 0.60",
+                      "children": [
+                        {
+                          "name": "0_pad_16",
+                          "summary": "padding for leaf 0, level 16",
+                          "children": [
+                            {
+                              "name": "0_pad_15",
+                              "summary": "padding for leaf 0, level 15",
+                              "children": [
+                                {
+                                  "name": "0_pad_14",
+                                  "summary": "padding for leaf 0, level 14",
+                                  "children": [
+                                    {
+                                      "name": "0_pad_13",
+                                      "summary": "padding for leaf 0, level 13",
+                                      "children": [
+                                        {
+                                          "name": "0_pad_12",
+                                          "summary": "padding for leaf 0, level 12",
+                                          "children": [
+                                            {
+                                              "name": "0_pad_11",
+                                              "summary": "padding for leaf 0, level 11",
+                                              "children": [
+                                                {
+                                                  "name": "0_pad_10",
+                                                  "summary": "padding for leaf 0, level 10",
+                                                  "children": [
+                                                    {
+                                                      "name": "0_pad_9",
+                                                      "summary": "padding for leaf 0, level 9",
+                                                      "children": [
+                                                        {
+                                                          "name": "0_pad_8",
+                                                          "summary": "padding for leaf 0, level 8",
+                                                          "children": [
+                                                            {
+                                                              "name": "0_pad_7",
+                                                              "summary": "padding for leaf 0, level 7",
+                                                              "children": [
+                                                                {
+                                                                  "name": "0_pad_6",
+                                                                  "summary": "padding for leaf 0, level 6",
+                                                                  "children": [
+                                                                    {
+                                                                      "name": "0_pad_5",
+                                                                      "summary": "padding for leaf 0, level 5",
+                                                                      "children": [
+                                                                        {
+                                                                          "name": "0_pad_4",
+                                                                          "summary": "padding for leaf 0, level 4",
+                                                                          "children": [
+                                                                            {
+                                                                              "name": "0_pad_3",
+                                                                              "summary": "padding for leaf 0, level 3",
+                                                                              "children": [
+                                                                                {
+                                                                                  "name": "0_pad_2",
+                                                                                  "summary": "padding for leaf 0, level 2",
+                                                                                  "children": [
+                                                                                    {
+                                                                                      "name": "0_pad_1",
+                                                                                      "summary": "padding for leaf 0, level 1",
+                                                                                      "children": [
+                                                                                        {
+                                                                                          "name": "0_pad_0",
+                                                                                          "summary": "padding for leaf 0, level 0",
+                                                                                          "children": [
+                                                                                            {
+                                                                                              "name": "0",
+                                                                                              "summary": "Actions juridiques et plaidoyer de l'AAF pour influencer la législation sur les archives, notamment par le dépôt d'amendements et la participation aux débats parlementaires sur la modification de l'article L213-2 du Code du patrimoine.",
+                                                                                              "children": []
+                                                                                            }
+                                                                                          ]
+                                                                                        }
+                                                                                      ]
+                                                                                    }
+                                                                                  ]
+                                                                                }
+                                                                              ]
+                                                                            }
+                                                                          ]
+                                                                        }
+                                                                      ]
+                                                                    }
+                                                                  ]
+                                                                }
+                                                              ]
+                                                            }
+                                                          ]
+                                                        }
+                                                      ]
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "name": "9_pad_16",
+                          "summary": "padding for leaf 9, level 16",
+                          "children": [
+                            {
+                              "name": "9_pad_15",
+                              "summary": "padding for leaf 9, level 15",
+                              "children": [
+                                {
+                                  "name": "9_pad_14",
+                                  "summary": "padding for leaf 9, level 14",
+                                  "children": [
+                                    {
+                                      "name": "9_pad_13",
+                                      "summary": "padding for leaf 9, level 13",
+                                      "children": [
+                                        {
+                                          "name": "9_pad_12",
+                                          "summary": "padding for leaf 9, level 12",
+                                          "children": [
+                                            {
+                                              "name": "9_pad_11",
+                                              "summary": "padding for leaf 9, level 11",
+                                              "children": [
+                                                {
+                                                  "name": "9_pad_10",
+                                                  "summary": "padding for leaf 9, level 10",
+                                                  "children": [
+                                                    {
+                                                      "name": "9_pad_9",
+                                                      "summary": "padding for leaf 9, level 9",
+                                                      "children": [
+                                                        {
+                                                          "name": "9_pad_8",
+                                                          "summary": "padding for leaf 9, level 8",
+                                                          "children": [
+                                                            {
+                                                              "name": "9_pad_7",
+                                                              "summary": "padding for leaf 9, level 7",
+                                                              "children": [
+                                                                {
+                                                                  "name": "9_pad_6",
+                                                                  "summary": "padding for leaf 9, level 6",
+                                                                  "children": [
+                                                                    {
+                                                                      "name": "9_pad_5",
+                                                                      "summary": "padding for leaf 9, level 5",
+                                                                      "children": [
+                                                                        {
+                                                                          "name": "9_pad_4",
+                                                                          "summary": "padding for leaf 9, level 4",
+                                                                          "children": [
+                                                                            {
+                                                                              "name": "9_pad_3",
+                                                                              "summary": "padding for leaf 9, level 3",
+                                                                              "children": [
+                                                                                {
+                                                                                  "name": "9_pad_2",
+                                                                                  "summary": "padding for leaf 9, level 2",
+                                                                                  "children": [
+                                                                                    {
+                                                                                      "name": "9_pad_1",
+                                                                                      "summary": "padding for leaf 9, level 1",
+                                                                                      "children": [
+                                                                                        {
+                                                                                          "name": "9_pad_0",
+                                                                                          "summary": "padding for leaf 9, level 0",
+                                                                                          "children": [
+                                                                                            {
+                                                                                              "name": "9",
+                                                                                              "summary": "Actions juridiques et plaidoyer de l'AAF pour influencer la législation sur les archives, notamment par le dépôt d'amendements et la participation aux débats parlementaires sur la modification de l'article L213-2 du Code du patrimoine.",
+                                                                                              "children": []
+                                                                                            }
+                                                                                          ]
+                                                                                        }
+                                                                                      ]
+                                                                                    }
+                                                                                  ]
+                                                                                }
+                                                                              ]
+                                                                            }
+                                                                          ]
+                                                                        }
+                                                                      ]
+                                                                    }
+                                                                  ]
+                                                                }
+                                                              ]
+                                                            }
+                                                          ]
+                                                        }
+                                                      ]
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "45",
+      "summary": "Merge 1.05",
+      "children": [
+        {
+          "name": "13_pad_20",
+          "summary": "padding for leaf 13, level 20",
+          "children": [
+            {
+              "name": "13_pad_19",
+              "summary": "padding for leaf 13, level 19",
+              "children": [
+                {
+                  "name": "13_pad_18",
+                  "summary": "padding for leaf 13, level 18",
+                  "children": [
+                    {
+                      "name": "13_pad_17",
+                      "summary": "padding for leaf 13, level 17",
+                      "children": [
+                        {
+                          "name": "13_pad_16",
+                          "summary": "padding for leaf 13, level 16",
+                          "children": [
+                            {
+                              "name": "13_pad_15",
+                              "summary": "padding for leaf 13, level 15",
+                              "children": [
+                                {
+                                  "name": "13_pad_14",
+                                  "summary": "padding for leaf 13, level 14",
+                                  "children": [
+                                    {
+                                      "name": "13_pad_13",
+                                      "summary": "padding for leaf 13, level 13",
+                                      "children": [
+                                        {
+                                          "name": "13_pad_12",
+                                          "summary": "padding for leaf 13, level 12",
+                                          "children": [
+                                            {
+                                              "name": "13_pad_11",
+                                              "summary": "padding for leaf 13, level 11",
+                                              "children": [
+                                                {
+                                                  "name": "13_pad_10",
+                                                  "summary": "padding for leaf 13, level 10",
+                                                  "children": [
+                                                    {
+                                                      "name": "13_pad_9",
+                                                      "summary": "padding for leaf 13, level 9",
+                                                      "children": [
+                                                        {
+                                                          "name": "13_pad_8",
+                                                          "summary": "padding for leaf 13, level 8",
+                                                          "children": [
+                                                            {
+                                                              "name": "13_pad_7",
+                                                              "summary": "padding for leaf 13, level 7",
+                                                              "children": [
+                                                                {
+                                                                  "name": "13_pad_6",
+                                                                  "summary": "padding for leaf 13, level 6",
+                                                                  "children": [
+                                                                    {
+                                                                      "name": "13_pad_5",
+                                                                      "summary": "padding for leaf 13, level 5",
+                                                                      "children": [
+                                                                        {
+                                                                          "name": "13_pad_4",
+                                                                          "summary": "padding for leaf 13, level 4",
+                                                                          "children": [
+                                                                            {
+                                                                              "name": "13_pad_3",
+                                                                              "summary": "padding for leaf 13, level 3",
+                                                                              "children": [
+                                                                                {
+                                                                                  "name": "13_pad_2",
+                                                                                  "summary": "padding for leaf 13, level 2",
+                                                                                  "children": [
+                                                                                    {
+                                                                                      "name": "13_pad_1",
+                                                                                      "summary": "padding for leaf 13, level 1",
+                                                                                      "children": [
+                                                                                        {
+                                                                                          "name": "13_pad_0",
+                                                                                          "summary": "padding for leaf 13, level 0",
+                                                                                          "children": [
+                                                                                            {
+                                                                                              "name": "13",
+                                                                                              "summary": "Suivi des évolutions législatives et concertations autour de la modification de l'article L213-2 du Code du patrimoine, avec une attention portée à la déclassification automatique, à la définition des catégories dérogatoires et à la protection des libertés publiques.",
+                                                                                              "children": []
+                                                                                            }
+                                                                                          ]
+                                                                                        }
+                                                                                      ]
+                                                                                    }
+                                                                                  ]
+                                                                                }
+                                                                              ]
+                                                                            }
+                                                                          ]
+                                                                        }
+                                                                      ]
+                                                                    }
+                                                                  ]
+                                                                }
+                                                              ]
+                                                            }
+                                                          ]
+                                                        }
+                                                      ]
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "42",
+          "summary": "Merge 0.96",
+          "children": [
+            {
+              "name": "8_pad_19",
+              "summary": "padding for leaf 8, level 19",
+              "children": [
+                {
+                  "name": "8_pad_18",
+                  "summary": "padding for leaf 8, level 18",
+                  "children": [
+                    {
+                      "name": "8_pad_17",
+                      "summary": "padding for leaf 8, level 17",
+                      "children": [
+                        {
+                          "name": "8_pad_16",
+                          "summary": "padding for leaf 8, level 16",
+                          "children": [
+                            {
+                              "name": "8_pad_15",
+                              "summary": "padding for leaf 8, level 15",
+                              "children": [
+                                {
+                                  "name": "8_pad_14",
+                                  "summary": "padding for leaf 8, level 14",
+                                  "children": [
+                                    {
+                                      "name": "8_pad_13",
+                                      "summary": "padding for leaf 8, level 13",
+                                      "children": [
+                                        {
+                                          "name": "8_pad_12",
+                                          "summary": "padding for leaf 8, level 12",
+                                          "children": [
+                                            {
+                                              "name": "8_pad_11",
+                                              "summary": "padding for leaf 8, level 11",
+                                              "children": [
+                                                {
+                                                  "name": "8_pad_10",
+                                                  "summary": "padding for leaf 8, level 10",
+                                                  "children": [
+                                                    {
+                                                      "name": "8_pad_9",
+                                                      "summary": "padding for leaf 8, level 9",
+                                                      "children": [
+                                                        {
+                                                          "name": "8_pad_8",
+                                                          "summary": "padding for leaf 8, level 8",
+                                                          "children": [
+                                                            {
+                                                              "name": "8_pad_7",
+                                                              "summary": "padding for leaf 8, level 7",
+                                                              "children": [
+                                                                {
+                                                                  "name": "8_pad_6",
+                                                                  "summary": "padding for leaf 8, level 6",
+                                                                  "children": [
+                                                                    {
+                                                                      "name": "8_pad_5",
+                                                                      "summary": "padding for leaf 8, level 5",
+                                                                      "children": [
+                                                                        {
+                                                                          "name": "8_pad_4",
+                                                                          "summary": "padding for leaf 8, level 4",
+                                                                          "children": [
+                                                                            {
+                                                                              "name": "8_pad_3",
+                                                                              "summary": "padding for leaf 8, level 3",
+                                                                              "children": [
+                                                                                {
+                                                                                  "name": "8_pad_2",
+                                                                                  "summary": "padding for leaf 8, level 2",
+                                                                                  "children": [
+                                                                                    {
+                                                                                      "name": "8_pad_1",
+                                                                                      "summary": "padding for leaf 8, level 1",
+                                                                                      "children": [
+                                                                                        {
+                                                                                          "name": "8_pad_0",
+                                                                                          "summary": "padding for leaf 8, level 0",
+                                                                                          "children": [
+                                                                                            {
+                                                                                              "name": "8",
+                                                                                              "summary": "Préparation et organisation par l'AAF d'événements, publications et journées d'études sur le thème de l'engagement des archivistes, avec une réflexion sur la posture professionnelle et la défense des droits d'accès aux archives.",
+                                                                                              "children": []
+                                                                                            }
+                                                                                          ]
+                                                                                        }
+                                                                                      ]
+                                                                                    }
+                                                                                  ]
+                                                                                }
+                                                                              ]
+                                                                            }
+                                                                          ]
+                                                                        }
+                                                                      ]
+                                                                    }
+                                                                  ]
+                                                                }
+                                                              ]
+                                                            }
+                                                          ]
+                                                        }
+                                                      ]
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "36",
+              "summary": "Merge 0.66",
+              "children": [
+                {
+                  "name": "12_pad_18",
+                  "summary": "padding for leaf 12, level 18",
+                  "children": [
+                    {
+                      "name": "12_pad_17",
+                      "summary": "padding for leaf 12, level 17",
+                      "children": [
+                        {
+                          "name": "12_pad_16",
+                          "summary": "padding for leaf 12, level 16",
+                          "children": [
+                            {
+                              "name": "12_pad_15",
+                              "summary": "padding for leaf 12, level 15",
+                              "children": [
+                                {
+                                  "name": "12_pad_14",
+                                  "summary": "padding for leaf 12, level 14",
+                                  "children": [
+                                    {
+                                      "name": "12_pad_13",
+                                      "summary": "padding for leaf 12, level 13",
+                                      "children": [
+                                        {
+                                          "name": "12_pad_12",
+                                          "summary": "padding for leaf 12, level 12",
+                                          "children": [
+                                            {
+                                              "name": "12_pad_11",
+                                              "summary": "padding for leaf 12, level 11",
+                                              "children": [
+                                                {
+                                                  "name": "12_pad_10",
+                                                  "summary": "padding for leaf 12, level 10",
+                                                  "children": [
+                                                    {
+                                                      "name": "12_pad_9",
+                                                      "summary": "padding for leaf 12, level 9",
+                                                      "children": [
+                                                        {
+                                                          "name": "12_pad_8",
+                                                          "summary": "padding for leaf 12, level 8",
+                                                          "children": [
+                                                            {
+                                                              "name": "12_pad_7",
+                                                              "summary": "padding for leaf 12, level 7",
+                                                              "children": [
+                                                                {
+                                                                  "name": "12_pad_6",
+                                                                  "summary": "padding for leaf 12, level 6",
+                                                                  "children": [
+                                                                    {
+                                                                      "name": "12_pad_5",
+                                                                      "summary": "padding for leaf 12, level 5",
+                                                                      "children": [
+                                                                        {
+                                                                          "name": "12_pad_4",
+                                                                          "summary": "padding for leaf 12, level 4",
+                                                                          "children": [
+                                                                            {
+                                                                              "name": "12_pad_3",
+                                                                              "summary": "padding for leaf 12, level 3",
+                                                                              "children": [
+                                                                                {
+                                                                                  "name": "12_pad_2",
+                                                                                  "summary": "padding for leaf 12, level 2",
+                                                                                  "children": [
+                                                                                    {
+                                                                                      "name": "12_pad_1",
+                                                                                      "summary": "padding for leaf 12, level 1",
+                                                                                      "children": [
+                                                                                        {
+                                                                                          "name": "12_pad_0",
+                                                                                          "summary": "padding for leaf 12, level 0",
+                                                                                          "children": [
+                                                                                            {
+                                                                                              "name": "12",
+                                                                                              "summary": "Mobilisation collective de l'AAF et associations partenaires pour contester et influencer la réforme du droit d'accès aux archives classées secret-défense, notamment par des recours au Conseil d'État et des actions de plaidoyer auprès des parlementaires.",
+                                                                                              "children": []
+                                                                                            }
+                                                                                          ]
+                                                                                        }
+                                                                                      ]
+                                                                                    }
+                                                                                  ]
+                                                                                }
+                                                                              ]
+                                                                            }
+                                                                          ]
+                                                                        }
+                                                                      ]
+                                                                    }
+                                                                  ]
+                                                                }
+                                                              ]
+                                                            }
+                                                          ]
+                                                        }
+                                                      ]
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "name": "22_pad_18",
+                  "summary": "padding for leaf 22, level 18",
+                  "children": [
+                    {
+                      "name": "22_pad_17",
+                      "summary": "padding for leaf 22, level 17",
+                      "children": [
+                        {
+                          "name": "22_pad_16",
+                          "summary": "padding for leaf 22, level 16",
+                          "children": [
+                            {
+                              "name": "22_pad_15",
+                              "summary": "padding for leaf 22, level 15",
+                              "children": [
+                                {
+                                  "name": "22_pad_14",
+                                  "summary": "padding for leaf 22, level 14",
+                                  "children": [
+                                    {
+                                      "name": "22_pad_13",
+                                      "summary": "padding for leaf 22, level 13",
+                                      "children": [
+                                        {
+                                          "name": "22_pad_12",
+                                          "summary": "padding for leaf 22, level 12",
+                                          "children": [
+                                            {
+                                              "name": "22_pad_11",
+                                              "summary": "padding for leaf 22, level 11",
+                                              "children": [
+                                                {
+                                                  "name": "22_pad_10",
+                                                  "summary": "padding for leaf 22, level 10",
+                                                  "children": [
+                                                    {
+                                                      "name": "22_pad_9",
+                                                      "summary": "padding for leaf 22, level 9",
+                                                      "children": [
+                                                        {
+                                                          "name": "22_pad_8",
+                                                          "summary": "padding for leaf 22, level 8",
+                                                          "children": [
+                                                            {
+                                                              "name": "22_pad_7",
+                                                              "summary": "padding for leaf 22, level 7",
+                                                              "children": [
+                                                                {
+                                                                  "name": "22_pad_6",
+                                                                  "summary": "padding for leaf 22, level 6",
+                                                                  "children": [
+                                                                    {
+                                                                      "name": "22_pad_5",
+                                                                      "summary": "padding for leaf 22, level 5",
+                                                                      "children": [
+                                                                        {
+                                                                          "name": "22_pad_4",
+                                                                          "summary": "padding for leaf 22, level 4",
+                                                                          "children": [
+                                                                            {
+                                                                              "name": "22_pad_3",
+                                                                              "summary": "padding for leaf 22, level 3",
+                                                                              "children": [
+                                                                                {
+                                                                                  "name": "22_pad_2",
+                                                                                  "summary": "padding for leaf 22, level 2",
+                                                                                  "children": [
+                                                                                    {
+                                                                                      "name": "22_pad_1",
+                                                                                      "summary": "padding for leaf 22, level 1",
+                                                                                      "children": [
+                                                                                        {
+                                                                                          "name": "22_pad_0",
+                                                                                          "summary": "padding for leaf 22, level 0",
+                                                                                          "children": [
+                                                                                            {
+                                                                                              "name": "22",
+                                                                                              "summary": "Mobilisation collective de l'AAF et associations partenaires pour contester et influencer la réforme du droit d'accès aux archives classées secret-défense, notamment par des recours au Conseil d'État et des actions de plaidoyer auprès des parlementaires.",
+                                                                                              "children": []
+                                                                                            }
+                                                                                          ]
+                                                                                        }
+                                                                                      ]
+                                                                                    }
+                                                                                  ]
+                                                                                }
+                                                                              ]
+                                                                            }
+                                                                          ]
+                                                                        }
+                                                                      ]
+                                                                    }
+                                                                  ]
+                                                                }
+                                                              ]
+                                                            }
+                                                          ]
+                                                        }
+                                                      ]
+                                                    }
+                                                  ]
+                                                }
+                                              ]
+                                            }
+                                          ]
+                                        }
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
